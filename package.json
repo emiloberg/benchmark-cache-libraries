@@ -1,0 +1,19 @@
+{
+  "name": "benchmark",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@isaacs/ttlcache": "^1.4.1",
+    "keyv": "^4.5.4",
+    "mitata": "^0.1.11",
+    "node-cache": "^5.1.2"
+  }
+}

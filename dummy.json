@@ -1,0 +1,3960 @@
+{
+  "id": "m-6fc965e6969ce505",
+  "globalId": "g-f3ef7343c7e413375a5d81eb1e1014e38",
+  "seriesId": "s-9d748e6331d8c7f5",
+  "seasonId": "4b0992bb7c4efae2",
+  "upstreamModified": null,
+  "references": {
+    "SERIES": [
+      {
+        "id": "s-9d748e6331d8c7f5",
+        "referenceType": "SERIES",
+        "referenceDecorations": {}
+      }
+    ],
+    "VERSION": [
+      {
+        "id": "3",
+        "referenceType": "VERSION",
+        "referenceDecorations": {}
+      }
+    ],
+    "ORIGINAL_CONTENT_ID": [
+      {
+        "id": "477811",
+        "referenceType": "ORIGINAL_CONTENT_ID",
+        "referenceDecorations": {}
+      }
+    ],
+    "LINK": [
+      {
+        "id": "m-6fc965e6969ce505-APP",
+        "referenceType": "LINK",
+        "referenceDecorations": {
+          "LINK": "tv4play://ext-series/282016",
+          "NAME": "APP"
+        }
+      },
+      {
+        "id": "m-6fc965e6969ce505-COMET_VOD",
+        "referenceType": "LINK",
+        "referenceDecorations": {
+          "LINK": "https://tv4.incomet.io/api/vod/assets/477811",
+          "NAME": "COMET_VOD"
+        }
+      },
+      {
+        "id": "m-6fc965e6969ce505-WEB",
+        "referenceType": "LINK",
+        "referenceDecorations": {
+          "LINK": "https://l.tv4play.se/ext-series/282016",
+          "NAME": "WEB"
+        }
+      }
+    ],
+    "SEASON": [
+      {
+        "id": "4b0992bb7c4efae2",
+        "referenceType": "SEASON",
+        "referenceDecorations": {}
+      }
+    ]
+  },
+  "countryCode": "SE",
+  "metadata": {
+    "metadataSource": "AGGREGATED",
+    "title": {
+      "full": {
+        "texts": {
+          "sv": "Heathrow"
+        }
+      },
+      "sub": null,
+      "original": null,
+      "epg": null
+    },
+    "series": {
+      "id": "s-9d748e6331d8c7f5",
+      "globalId": "gs-f847a9ecbdda736cdb4ea7e8e50724f9f",
+      "countryCode": null,
+      "upstreamModified": null,
+      "title": null,
+      "seriesTitle": {
+        "full": {
+          "texts": {
+            "sv": "Heathrow"
+          }
+        },
+        "sub": null,
+        "original": null,
+        "epg": null
+      },
+      "synopsis": null,
+      "seriesSynopsis": {
+        "briefSynopsis": {
+          "texts": {
+            "sv": "Brittisk dokumentärserie."
+          }
+        },
+        "shortSynopsis": {
+          "texts": {
+            "sv": "Varje år passerar fler än 70 miljoner resenärer Europas största flygplats Heathrow. I den här serien tar vi oss in bakom kulisserna."
+          }
+        },
+        "mediumSynopsis": {
+          "texts": {
+            "sv": "Följ med bakom kulisserna på Europas största flygplats Heathrow. Varje år passerar mer än 70 miljoner passagerare flygplatsens terminaler vilket innebär att ingen dag är den andra lik för flygplatsens 76 000 anställda."
+          }
+        },
+        "longSynopsis": {
+          "texts": {
+            "sv": "Följ med bakom kulisserna på Europas största flygplats. Flygplatsen som är öppen 24 timmar om dygnet transporterar mer internationella resenärer än någon annan flygplats i världen. För flygplatsens 76 000 anställda är tempot ständigt högt och dokumentärserien ger oss en unik inblick i de utmaningar och möjligheter som flygplatsen står inför."
+          }
+        },
+        "extendedSynopsis": null
+      },
+      "seasons": [
+        {
+          "id": "4b0992bb7c4efae2",
+          "seriesId": "s-9d748e6331d8c7f5",
+          "title": null,
+          "seasonTitle": {
+            "full": null,
+            "sub": null,
+            "original": null,
+            "epg": null
+          },
+          "number": 1,
+          "ordinalString": "1",
+          "synopsis": null,
+          "seasonSynopsis": {
+            "briefSynopsis": {
+              "texts": {
+                "sv": "Följ med bakom kulisserna på Europas största flygplats Heathrow."
+              }
+            },
+            "shortSynopsis": {
+              "texts": {
+                "sv": "Följ med bakom kulisserna på Europas största flygplats Heathrow och möt några av de 76 000 anställda som arbetar med att hålla flygplatsen levande."
+              }
+            },
+            "mediumSynopsis": {
+              "texts": {
+                "sv": "Följ med bakom kulisserna på Europas största flygplats Heathrow som varje år transporterar mer än 70 miljoner passagerare. Utmaningarna är många och vi får följa med på allt ifrån invigningen av en ny terminal till försenade flyg och säkerhetsfrågor"
+              }
+            },
+            "longSynopsis": {
+              "texts": {
+                "sv": "Följ med bakom kulisserna på Europas största flygplats Heathrow. Varje år passerar mer än 70 miljoner passagerare genom flygplatsens terminaler vilket innebär stora utmaningar för de anställda. Tempot är högt och dokumentärserien ger oss en unik inblick i hur allt ifrån säkerhetsfrågor till försenade flyg och hantering av farligt gods hanteras."
+              }
+            },
+            "extendedSynopsis": null
+          },
+          "mainGenre": null,
+          "productionYear": null,
+          "ageRating": null,
+          "contentRating": null,
+          "contributors": {},
+          "credits": {},
+          "references": {},
+          "images": {
+            "SEASON_SCREENSHOT": [
+              {
+                "source": "https://img.tv4.incomet.io/cec49ff1-61ba-4ed1-a9b3-170b93611990/crop16x9_w1920_h1080.jpg",
+                "imageRatio": "RATIO_16X9",
+                "imageOrientation": null,
+                "imageType": "SEASON_SCREENSHOT",
+                "width": 1920,
+                "height": 1080,
+                "imageSize": null,
+                "origin": "PROVIDER",
+                "ratio": null,
+                "orientation": null,
+                "language": null
+              }
+            ],
+            "SEASON_SHOWCARD": [
+              {
+                "source": "https://img.tv4.incomet.io/bdb8ac3d-1cd7-4039-81df-adc20d9b4c87/crop2x3.jpg",
+                "imageRatio": "RATIO_2X3",
+                "imageOrientation": null,
+                "imageType": "SEASON_SHOWCARD",
+                "width": 2000,
+                "height": 3000,
+                "imageSize": null,
+                "origin": "PROVIDER",
+                "ratio": null,
+                "orientation": null,
+                "language": "sv"
+              },
+              {
+                "source": "https://img.tv4.incomet.io/ea27e7cd-9d25-48f3-8c58-20c9e81c0cf3/crop16x9_w1920_h1080.jpg",
+                "imageRatio": "RATIO_16X9",
+                "imageOrientation": null,
+                "imageType": "SEASON_SHOWCARD",
+                "width": 1920,
+                "height": 1080,
+                "imageSize": null,
+                "origin": "PROVIDER",
+                "ratio": null,
+                "orientation": null,
+                "language": "da"
+              },
+              {
+                "source": "https://img.tv4.incomet.io/ea27e7cd-9d25-48f3-8c58-20c9e81c0cf3/crop16x9_w1920_h1080.jpg",
+                "imageRatio": "RATIO_16X9",
+                "imageOrientation": null,
+                "imageType": "SEASON_SHOWCARD",
+                "width": 1920,
+                "height": 1080,
+                "imageSize": null,
+                "origin": "PROVIDER",
+                "ratio": null,
+                "orientation": null,
+                "language": "sv"
+              },
+              {
+                "source": "https://img.tv4.incomet.io/ea27e7cd-9d25-48f3-8c58-20c9e81c0cf3/crop16x9_w1920_h1080.jpg",
+                "imageRatio": "RATIO_16X9",
+                "imageOrientation": null,
+                "imageType": "SEASON_SHOWCARD",
+                "width": 1920,
+                "height": 1080,
+                "imageSize": null,
+                "origin": "PROVIDER",
+                "ratio": null,
+                "orientation": null,
+                "language": "fi"
+              },
+              {
+                "source": "https://img.tv4.incomet.io/ea27e7cd-9d25-48f3-8c58-20c9e81c0cf3/crop16x9_w1920_h1080.jpg",
+                "imageRatio": "RATIO_16X9",
+                "imageOrientation": null,
+                "imageType": "SEASON_SHOWCARD",
+                "width": 1920,
+                "height": 1080,
+                "imageSize": null,
+                "origin": "PROVIDER",
+                "ratio": null,
+                "orientation": null,
+                "language": "no"
+              }
+            ]
+          },
+          "vignettes": [],
+          "deepLinks": [],
+          "releaseDate": null,
+          "checksum": null,
+          "modified": null
+        },
+        {
+          "id": "b944b69ea7205729",
+          "seriesId": "s-9d748e6331d8c7f5",
+          "title": null,
+          "seasonTitle": {
+            "full": null,
+            "sub": null,
+            "original": null,
+            "epg": null
+          },
+          "number": 2,
+          "ordinalString": "2",
+          "synopsis": null,
+          "seasonSynopsis": {
+            "briefSynopsis": {
+              "texts": {
+                "sv": "Följ med bakom kulisserna på Europas största flygplats Heathrow."
+              }
+            },
+            "shortSynopsis": {
+              "texts": {
+                "sv": "Följ med bakom kulisserna på Europas största flygplats Heathrow och möt några av de 76 000 anställda som arbetar med att hålla flygplatsen fungerande."
+              }
+            },
+            "mediumSynopsis": {
+              "texts": {
+                "sv": "Följ med bakom kulisserna på Europas största flygplats och möt några av de 76 000 anställda som arbetar dygnet runt med att hålla flygplatsen fungerande. Ingen dag är den andra lik och de får hantera allt ifrån farligt gods till bråkiga passagerare."
+              }
+            },
+            "longSynopsis": {
+              "texts": {
+                "sv": "Följ med bakom kulisserna på Europas största flygplats och möt några av de 76 000 anställda som arbetar dygnet runt med att hålla flygplatsen fungerande. Ingen dag är den andra lik och de får hantera allt ifrån farligt gods till bråkiga passagerare och oväntade gäster nere på djurcentret."
+              }
+            },
+            "extendedSynopsis": {
+              "texts": {
+                "sv": "Följ med bakom kulisserna på Europas största flygplats och möt några av de 76 000 anställda som arbetar dygnet runt med att hålla flygplatsen fungerande. Ingen dag är den andra lik och de får hantera allt ifrån farligt gods till bråkiga passagerare och oväntade gäster nere på djurcentret."
+              }
+            }
+          },
+          "mainGenre": null,
+          "productionYear": null,
+          "ageRating": null,
+          "contentRating": null,
+          "contributors": {},
+          "credits": {},
+          "references": {},
+          "images": {
+            "SEASON_SCREENSHOT": [
+              {
+                "source": "https://img.tv4.incomet.io/cec49ff1-61ba-4ed1-a9b3-170b93611990/crop16x9_w1920_h1080.jpg",
+                "imageRatio": "RATIO_16X9",
+                "imageOrientation": null,
+                "imageType": "SEASON_SCREENSHOT",
+                "width": 1920,
+                "height": 1080,
+                "imageSize": null,
+                "origin": "PROVIDER",
+                "ratio": null,
+                "orientation": null,
+                "language": null
+              }
+            ],
+            "SEASON_SHOWCARD": [
+              {
+                "source": "https://img.tv4.incomet.io/bdb8ac3d-1cd7-4039-81df-adc20d9b4c87/crop2x3.jpg",
+                "imageRatio": "RATIO_2X3",
+                "imageOrientation": null,
+                "imageType": "SEASON_SHOWCARD",
+                "width": 2000,
+                "height": 3000,
+                "imageSize": null,
+                "origin": "PROVIDER",
+                "ratio": null,
+                "orientation": null,
+                "language": "sv"
+              },
+              {
+                "source": "https://img.tv4.incomet.io/ea27e7cd-9d25-48f3-8c58-20c9e81c0cf3/crop16x9_w1920_h1080.jpg",
+                "imageRatio": "RATIO_16X9",
+                "imageOrientation": null,
+                "imageType": "SEASON_SHOWCARD",
+                "width": 1920,
+                "height": 1080,
+                "imageSize": null,
+                "origin": "PROVIDER",
+                "ratio": null,
+                "orientation": null,
+                "language": "no"
+              },
+              {
+                "source": "https://img.tv4.incomet.io/ea27e7cd-9d25-48f3-8c58-20c9e81c0cf3/crop16x9_w1920_h1080.jpg",
+                "imageRatio": "RATIO_16X9",
+                "imageOrientation": null,
+                "imageType": "SEASON_SHOWCARD",
+                "width": 1920,
+                "height": 1080,
+                "imageSize": null,
+                "origin": "PROVIDER",
+                "ratio": null,
+                "orientation": null,
+                "language": "da"
+              },
+              {
+                "source": "https://img.tv4.incomet.io/ea27e7cd-9d25-48f3-8c58-20c9e81c0cf3/crop16x9_w1920_h1080.jpg",
+                "imageRatio": "RATIO_16X9",
+                "imageOrientation": null,
+                "imageType": "SEASON_SHOWCARD",
+                "width": 1920,
+                "height": 1080,
+                "imageSize": null,
+                "origin": "PROVIDER",
+                "ratio": null,
+                "orientation": null,
+                "language": "sv"
+              },
+              {
+                "source": "https://img.tv4.incomet.io/ea27e7cd-9d25-48f3-8c58-20c9e81c0cf3/crop16x9_w1920_h1080.jpg",
+                "imageRatio": "RATIO_16X9",
+                "imageOrientation": null,
+                "imageType": "SEASON_SHOWCARD",
+                "width": 1920,
+                "height": 1080,
+                "imageSize": null,
+                "origin": "PROVIDER",
+                "ratio": null,
+                "orientation": null,
+                "language": "fi"
+              }
+            ]
+          },
+          "vignettes": [],
+          "deepLinks": [],
+          "releaseDate": null,
+          "checksum": null,
+          "modified": null
+        },
+        {
+          "id": "s-164280_3",
+          "seriesId": "s-164280",
+          "title": {
+            "texts": {
+              "sv": "Heathrow"
+            }
+          },
+          "seasonTitle": null,
+          "number": 3,
+          "ordinalString": "3",
+          "synopsis": {
+            "texts": {
+              "sv": "Brittisk dokumentärserie från 2017. Följ med bakom kulisserna på Europas största flygplats och möt några av de 76 000 anställda som arbetar dygnet runt med att hålla flygplatsen fungerande. Ingen dag är den andra lik och de får hantera allt ifrån farligt gods till bråkiga passagerare."
+            }
+          },
+          "seasonSynopsis": null,
+          "mainGenre": null,
+          "productionYear": null,
+          "ageRating": null,
+          "contentRating": null,
+          "contributors": {},
+          "credits": {},
+          "references": {},
+          "images": {
+            "UNKNOWN": [
+              {
+                "source": "/image_storage/se.tv4/006/174/9200961.jpg",
+                "imageRatio": null,
+                "imageOrientation": "PORTRAIT",
+                "imageType": "UNKNOWN",
+                "width": null,
+                "height": null,
+                "imageSize": null,
+                "origin": "PROVIDER",
+                "ratio": null,
+                "orientation": null,
+                "language": null
+              }
+            ]
+          },
+          "vignettes": [],
+          "deepLinks": [],
+          "releaseDate": null,
+          "checksum": null,
+          "modified": null
+        },
+        {
+          "id": "54f50afe46a9f144",
+          "seriesId": "s-9d748e6331d8c7f5",
+          "title": null,
+          "seasonTitle": {
+            "full": null,
+            "sub": null,
+            "original": null,
+            "epg": null
+          },
+          "number": 4,
+          "ordinalString": "4",
+          "synopsis": null,
+          "seasonSynopsis": {
+            "briefSynopsis": {
+              "texts": {
+                "sv": "Brittisk dokumentärserie från 2018."
+              }
+            },
+            "shortSynopsis": {
+              "texts": {
+                "sv": "Följ med bakom kulisserna på Europas största flygplats Heathrow."
+              }
+            },
+            "mediumSynopsis": {
+              "texts": {
+                "sv": "Följ med bakom kulisserna på Europas största flygplats och möt några av de 76 000 anställda som arbetar dygnet runt med att hålla flygplatsen fungerande. Ingen dag är den andra lik och de får hantera allt ifrån farligt gods till bråkiga passagerare."
+              }
+            },
+            "longSynopsis": {
+              "texts": {
+                "sv": "Brittisk dokumentärserie från 2018. Följ med bakom kulisserna på Europas största flygplats och möt några av de 76 000 anställda som arbetar dygnet runt med att hålla flygplatsen fungerande. Ingen dag är den andra lik och de får hantera allt ifrån farligt gods till bråkiga passagerare."
+              }
+            },
+            "extendedSynopsis": null
+          },
+          "mainGenre": null,
+          "productionYear": null,
+          "ageRating": null,
+          "contentRating": null,
+          "contributors": {},
+          "credits": {},
+          "references": {},
+          "images": {
+            "SEASON_SCREENSHOT": [
+              {
+                "source": "https://img.tv4.incomet.io/cec49ff1-61ba-4ed1-a9b3-170b93611990/crop16x9_w1920_h1080.jpg",
+                "imageRatio": "RATIO_16X9",
+                "imageOrientation": null,
+                "imageType": "SEASON_SCREENSHOT",
+                "width": 1920,
+                "height": 1080,
+                "imageSize": null,
+                "origin": "PROVIDER",
+                "ratio": null,
+                "orientation": null,
+                "language": null
+              }
+            ],
+            "SEASON_SHOWCARD": [
+              {
+                "source": "https://img.tv4.incomet.io/bdb8ac3d-1cd7-4039-81df-adc20d9b4c87/crop2x3.jpg",
+                "imageRatio": "RATIO_2X3",
+                "imageOrientation": null,
+                "imageType": "SEASON_SHOWCARD",
+                "width": 2000,
+                "height": 3000,
+                "imageSize": null,
+                "origin": "PROVIDER",
+                "ratio": null,
+                "orientation": null,
+                "language": "sv"
+              },
+              {
+                "source": "https://img.tv4.incomet.io/ea27e7cd-9d25-48f3-8c58-20c9e81c0cf3/crop16x9_w1920_h1080.jpg",
+                "imageRatio": "RATIO_16X9",
+                "imageOrientation": null,
+                "imageType": "SEASON_SHOWCARD",
+                "width": 1920,
+                "height": 1080,
+                "imageSize": null,
+                "origin": "PROVIDER",
+                "ratio": null,
+                "orientation": null,
+                "language": "da"
+              },
+              {
+                "source": "https://img.tv4.incomet.io/ea27e7cd-9d25-48f3-8c58-20c9e81c0cf3/crop16x9_w1920_h1080.jpg",
+                "imageRatio": "RATIO_16X9",
+                "imageOrientation": null,
+                "imageType": "SEASON_SHOWCARD",
+                "width": 1920,
+                "height": 1080,
+                "imageSize": null,
+                "origin": "PROVIDER",
+                "ratio": null,
+                "orientation": null,
+                "language": "sv"
+              },
+              {
+                "source": "https://img.tv4.incomet.io/ea27e7cd-9d25-48f3-8c58-20c9e81c0cf3/crop16x9_w1920_h1080.jpg",
+                "imageRatio": "RATIO_16X9",
+                "imageOrientation": null,
+                "imageType": "SEASON_SHOWCARD",
+                "width": 1920,
+                "height": 1080,
+                "imageSize": null,
+                "origin": "PROVIDER",
+                "ratio": null,
+                "orientation": null,
+                "language": "fi"
+              },
+              {
+                "source": "https://img.tv4.incomet.io/ea27e7cd-9d25-48f3-8c58-20c9e81c0cf3/crop16x9_w1920_h1080.jpg",
+                "imageRatio": "RATIO_16X9",
+                "imageOrientation": null,
+                "imageType": "SEASON_SHOWCARD",
+                "width": 1920,
+                "height": 1080,
+                "imageSize": null,
+                "origin": "PROVIDER",
+                "ratio": null,
+                "orientation": null,
+                "language": "no"
+              }
+            ]
+          },
+          "vignettes": [],
+          "deepLinks": [],
+          "releaseDate": null,
+          "checksum": null,
+          "modified": null
+        },
+        {
+          "id": "bae429f1a003a437",
+          "seriesId": "s-9d748e6331d8c7f5",
+          "title": null,
+          "seasonTitle": {
+            "full": null,
+            "sub": null,
+            "original": null,
+            "epg": null
+          },
+          "number": 7,
+          "ordinalString": "7",
+          "synopsis": null,
+          "seasonSynopsis": {
+            "briefSynopsis": {
+              "texts": {
+                "sv": "Brittisk dokumentärserie från 2021."
+              }
+            },
+            "shortSynopsis": {
+              "texts": {
+                "sv": "Följ med bakom kulisserna på Europas största flygplats!"
+              }
+            },
+            "mediumSynopsis": {
+              "texts": {
+                "sv": "Denna säsong ställs Heathrows anställda inför helt nya utmaningar när coronapandemin lamslår världen. Med endast två terminaler öppna kämpar personalen med att hålla verksamheten vid liv samtidigt som de gör allt för att förhindra smittspridning."
+              }
+            },
+            "longSynopsis": {
+              "texts": {
+                "sv": "Följ med bakom kulisserna på Europas största flygplats! Denna säsong ställs Heathrows anställda inför helt nya utmaningar när coronapandemin lamslår världen. Med endast två terminaler öppna kämpar personalen med att hålla verksamheten vid liv samtidigt som de gör allt för att förhindra smittspridning."
+              }
+            },
+            "extendedSynopsis": null
+          },
+          "mainGenre": null,
+          "productionYear": null,
+          "ageRating": null,
+          "contentRating": null,
+          "contributors": {},
+          "credits": {},
+          "references": {},
+          "images": {
+            "SEASON_BACKDROP": [
+              {
+                "source": "https://img.tv4.incomet.io/cc96e82c-8b4c-4bc2-b558-128422b35fb0/crop16x9_w1920_h1080.jpg",
+                "imageRatio": "RATIO_16X9",
+                "imageOrientation": null,
+                "imageType": "SEASON_BACKDROP",
+                "width": 1920,
+                "height": 1080,
+                "imageSize": null,
+                "origin": "PROVIDER",
+                "ratio": null,
+                "orientation": null,
+                "language": null
+              },
+              {
+                "source": "https://img.tv4.incomet.io/cd24a938-0da1-43a2-bc13-9852c60547b8/crop2x3.jpg",
+                "imageRatio": "RATIO_2X3",
+                "imageOrientation": null,
+                "imageType": "SEASON_BACKDROP",
+                "width": 2000,
+                "height": 3000,
+                "imageSize": null,
+                "origin": "PROVIDER",
+                "ratio": null,
+                "orientation": null,
+                "language": null
+              },
+              {
+                "source": "https://img.tv4.incomet.io/f8183170-acbf-448a-8597-86e5c80cce15/crop2x3.jpg",
+                "imageRatio": "RATIO_2X3",
+                "imageOrientation": null,
+                "imageType": "SEASON_BACKDROP",
+                "width": 2000,
+                "height": 3000,
+                "imageSize": null,
+                "origin": "PROVIDER",
+                "ratio": null,
+                "orientation": null,
+                "language": null
+              }
+            ],
+            "SEASON_SCREENSHOT": [
+              {
+                "source": "https://img.tv4.incomet.io/c106612f-4e58-47c8-bda2-8e32a2059a64/crop16x9_w1920_h1080.jpg",
+                "imageRatio": "RATIO_16X9",
+                "imageOrientation": null,
+                "imageType": "SEASON_SCREENSHOT",
+                "width": 1920,
+                "height": 1080,
+                "imageSize": null,
+                "origin": "PROVIDER",
+                "ratio": null,
+                "orientation": null,
+                "language": null
+              }
+            ],
+            "SEASON_SHOWCARD": [
+              {
+                "source": "https://img.tv4.incomet.io/27e8b148-11ec-4912-acb2-7c1d4807bd3f/crop2x3.jpg",
+                "imageRatio": "RATIO_2X3",
+                "imageOrientation": null,
+                "imageType": "SEASON_SHOWCARD",
+                "width": 2000,
+                "height": 3000,
+                "imageSize": null,
+                "origin": "PROVIDER",
+                "ratio": null,
+                "orientation": null,
+                "language": "fi"
+              },
+              {
+                "source": "https://img.tv4.incomet.io/27e8b148-11ec-4912-acb2-7c1d4807bd3f/crop2x3.jpg",
+                "imageRatio": "RATIO_2X3",
+                "imageOrientation": null,
+                "imageType": "SEASON_SHOWCARD",
+                "width": 2000,
+                "height": 3000,
+                "imageSize": null,
+                "origin": "PROVIDER",
+                "ratio": null,
+                "orientation": null,
+                "language": "da"
+              },
+              {
+                "source": "https://img.tv4.incomet.io/27e8b148-11ec-4912-acb2-7c1d4807bd3f/crop2x3.jpg",
+                "imageRatio": "RATIO_2X3",
+                "imageOrientation": null,
+                "imageType": "SEASON_SHOWCARD",
+                "width": 2000,
+                "height": 3000,
+                "imageSize": null,
+                "origin": "PROVIDER",
+                "ratio": null,
+                "orientation": null,
+                "language": "no"
+              },
+              {
+                "source": "https://img.tv4.incomet.io/27e8b148-11ec-4912-acb2-7c1d4807bd3f/crop2x3.jpg",
+                "imageRatio": "RATIO_2X3",
+                "imageOrientation": null,
+                "imageType": "SEASON_SHOWCARD",
+                "width": 2000,
+                "height": 3000,
+                "imageSize": null,
+                "origin": "PROVIDER",
+                "ratio": null,
+                "orientation": null,
+                "language": "sv"
+              },
+              {
+                "source": "https://img.tv4.incomet.io/372b53e9-12b5-4f0d-9a96-591133d496db/crop16x9_w1920_h1080.jpg",
+                "imageRatio": "RATIO_16X9",
+                "imageOrientation": null,
+                "imageType": "SEASON_SHOWCARD",
+                "width": 1920,
+                "height": 1080,
+                "imageSize": null,
+                "origin": "PROVIDER",
+                "ratio": null,
+                "orientation": null,
+                "language": "no"
+              },
+              {
+                "source": "https://img.tv4.incomet.io/372b53e9-12b5-4f0d-9a96-591133d496db/crop16x9_w1920_h1080.jpg",
+                "imageRatio": "RATIO_16X9",
+                "imageOrientation": null,
+                "imageType": "SEASON_SHOWCARD",
+                "width": 1920,
+                "height": 1080,
+                "imageSize": null,
+                "origin": "PROVIDER",
+                "ratio": null,
+                "orientation": null,
+                "language": "sv"
+              },
+              {
+                "source": "https://img.tv4.incomet.io/372b53e9-12b5-4f0d-9a96-591133d496db/crop16x9_w1920_h1080.jpg",
+                "imageRatio": "RATIO_16X9",
+                "imageOrientation": null,
+                "imageType": "SEASON_SHOWCARD",
+                "width": 1920,
+                "height": 1080,
+                "imageSize": null,
+                "origin": "PROVIDER",
+                "ratio": null,
+                "orientation": null,
+                "language": "fi"
+              },
+              {
+                "source": "https://img.tv4.incomet.io/372b53e9-12b5-4f0d-9a96-591133d496db/crop16x9_w1920_h1080.jpg",
+                "imageRatio": "RATIO_16X9",
+                "imageOrientation": null,
+                "imageType": "SEASON_SHOWCARD",
+                "width": 1920,
+                "height": 1080,
+                "imageSize": null,
+                "origin": "PROVIDER",
+                "ratio": null,
+                "orientation": null,
+                "language": "da"
+              },
+              {
+                "source": "https://img.tv4.incomet.io/372b53e9-12b5-4f0d-9a96-591133d496db/crop16x9_w1920_h1080.jpg",
+                "imageRatio": "RATIO_16X9",
+                "imageOrientation": null,
+                "imageType": "SEASON_SHOWCARD",
+                "width": 1920,
+                "height": 1080,
+                "imageSize": null,
+                "origin": "PROVIDER",
+                "ratio": null,
+                "orientation": null,
+                "language": "no"
+              },
+              {
+                "source": "https://img.tv4.incomet.io/372b53e9-12b5-4f0d-9a96-591133d496db/crop16x9_w1920_h1080.jpg",
+                "imageRatio": "RATIO_16X9",
+                "imageOrientation": null,
+                "imageType": "SEASON_SHOWCARD",
+                "width": 1920,
+                "height": 1080,
+                "imageSize": null,
+                "origin": "PROVIDER",
+                "ratio": null,
+                "orientation": null,
+                "language": "sv"
+              }
+            ]
+          },
+          "vignettes": [],
+          "deepLinks": [],
+          "releaseDate": null,
+          "checksum": null,
+          "modified": null
+        },
+        {
+          "id": "82ae6d27d63f7113",
+          "seriesId": "s-9d748e6331d8c7f5",
+          "title": null,
+          "seasonTitle": {
+            "full": null,
+            "sub": null,
+            "original": null,
+            "epg": null
+          },
+          "number": 8,
+          "ordinalString": "8",
+          "synopsis": null,
+          "seasonSynopsis": {
+            "briefSynopsis": {
+              "texts": {
+                "sv": "Brittisk dokumentärserie från 2022."
+              }
+            },
+            "shortSynopsis": {
+              "texts": {
+                "sv": "Följ med bakom kulisserna på Europas största flygplats Heathrow!"
+              }
+            },
+            "mediumSynopsis": {
+              "texts": {
+                "sv": "Europas största flygplats Heathrow står inför sin tuffaste sommar någonsin då miljontals resenärer har börjat flyga efter pandemin. Personalen kämpar med förseningar, inställda flygningar och saknade bagage, alltid med ett leende på läpparna."
+              }
+            },
+            "longSynopsis": {
+              "texts": {
+                "sv": "Följ med bakom kulisserna på Europas största flygplats Heathrow! Denna säsong ställs Heathrows anställda inför sin tuffaste sommar någonsin då miljontals resenärer har börjat flyga efter pandemin. Personalen kämpar med förseningar, inställda flygningar och saknade bagage, alltid med ett leende på läpparna."
+              }
+            },
+            "extendedSynopsis": {
+              "texts": {
+                "sv": "Följ med bakom kulisserna på Europas största flygplats Heathrow! Denna säsong ställs Heathrows anställda inför sin tuffaste sommar någonsin då miljontals resenärer har börjat flyga efter pandemin. Personalen kämpar med förseningar, inställda flygningar och saknade bagage, alltid med ett leende på läpparna."
+              }
+            }
+          },
+          "mainGenre": null,
+          "productionYear": null,
+          "ageRating": null,
+          "contentRating": null,
+          "contributors": {},
+          "credits": {},
+          "references": {},
+          "images": {
+            "SEASON_BACKDROP": [
+              {
+                "source": "https://img.tv4.incomet.io/cd24a938-0da1-43a2-bc13-9852c60547b8/crop2x3.jpg",
+                "imageRatio": "RATIO_2X3",
+                "imageOrientation": null,
+                "imageType": "SEASON_BACKDROP",
+                "width": 2000,
+                "height": 3000,
+                "imageSize": null,
+                "origin": "PROVIDER",
+                "ratio": null,
+                "orientation": null,
+                "language": null
+              },
+              {
+                "source": "https://img.tv4.incomet.io/f8183170-acbf-448a-8597-86e5c80cce15/crop2x3.jpg",
+                "imageRatio": "RATIO_2X3",
+                "imageOrientation": null,
+                "imageType": "SEASON_BACKDROP",
+                "width": 2000,
+                "height": 3000,
+                "imageSize": null,
+                "origin": "PROVIDER",
+                "ratio": null,
+                "orientation": null,
+                "language": null
+              }
+            ],
+            "SEASON_SCREENSHOT": [
+              {
+                "source": "https://img.tv4.incomet.io/c106612f-4e58-47c8-bda2-8e32a2059a64/crop16x9_w1920_h1080.jpg",
+                "imageRatio": "RATIO_16X9",
+                "imageOrientation": null,
+                "imageType": "SEASON_SCREENSHOT",
+                "width": 1920,
+                "height": 1080,
+                "imageSize": null,
+                "origin": "PROVIDER",
+                "ratio": null,
+                "orientation": null,
+                "language": null
+              }
+            ],
+            "SEASON_SHOWCARD": [
+              {
+                "source": "https://img.tv4.incomet.io/27e8b148-11ec-4912-acb2-7c1d4807bd3f/crop2x3.jpg",
+                "imageRatio": "RATIO_2X3",
+                "imageOrientation": null,
+                "imageType": "SEASON_SHOWCARD",
+                "width": 2000,
+                "height": 3000,
+                "imageSize": null,
+                "origin": "PROVIDER",
+                "ratio": null,
+                "orientation": null,
+                "language": "sv"
+              },
+              {
+                "source": "https://img.tv4.incomet.io/372b53e9-12b5-4f0d-9a96-591133d496db/crop16x9_w1920_h1080.jpg",
+                "imageRatio": "RATIO_16X9",
+                "imageOrientation": null,
+                "imageType": "SEASON_SHOWCARD",
+                "width": 1920,
+                "height": 1080,
+                "imageSize": null,
+                "origin": "PROVIDER",
+                "ratio": null,
+                "orientation": null,
+                "language": "sv"
+              }
+            ]
+          },
+          "vignettes": [],
+          "deepLinks": [],
+          "releaseDate": null,
+          "checksum": null,
+          "modified": null
+        },
+        {
+          "id": "s-164280_19",
+          "seriesId": "s-164280",
+          "title": {
+            "texts": {
+              "sv": "Heathrow"
+            }
+          },
+          "seasonTitle": null,
+          "number": 19,
+          "ordinalString": "19",
+          "synopsis": {
+            "texts": {
+              "sv": "Följ med bakom kulisserna på Europas största flygplats! Denna säsong ställs Heathrows anställda inför helt nya utmaningar när coronapandemin lamslår världen. Med endast två terminaler öppna kämpar personalen med att hålla verksamheten vid liv samtidigt som de gör allt för att förhindra smittspridning."
+            }
+          },
+          "seasonSynopsis": null,
+          "mainGenre": null,
+          "productionYear": null,
+          "ageRating": null,
+          "contentRating": null,
+          "contributors": {},
+          "credits": {},
+          "references": {},
+          "images": {
+            "UNKNOWN": [
+              {
+                "source": "/image_storage/se.tv4/006/174/9200961.jpg",
+                "imageRatio": null,
+                "imageOrientation": "PORTRAIT",
+                "imageType": "UNKNOWN",
+                "width": null,
+                "height": null,
+                "imageSize": null,
+                "origin": "PROVIDER",
+                "ratio": null,
+                "orientation": null,
+                "language": null
+              }
+            ]
+          },
+          "vignettes": [],
+          "deepLinks": [],
+          "releaseDate": null,
+          "checksum": null,
+          "modified": null
+        }
+      ],
+      "contributors": {},
+      "credits": {},
+      "references": {},
+      "images": {
+        "SERIES_BACKDROP": [
+          {
+            "source": "https://img.tv4.incomet.io/c106612f-4e58-47c8-bda2-8e32a2059a64/crop16x9_w1920_h1080.jpg",
+            "imageRatio": "RATIO_16X9",
+            "imageOrientation": null,
+            "imageType": "SERIES_BACKDROP",
+            "width": 1920,
+            "height": 1080,
+            "imageSize": null,
+            "origin": "PROVIDER",
+            "ratio": null,
+            "orientation": null,
+            "language": null
+          },
+          {
+            "source": "https://img.tv4.incomet.io/cc96e82c-8b4c-4bc2-b558-128422b35fb0/crop16x9_w1920_h1080.jpg",
+            "imageRatio": "RATIO_16X9",
+            "imageOrientation": null,
+            "imageType": "SERIES_BACKDROP",
+            "width": 1920,
+            "height": 1080,
+            "imageSize": null,
+            "origin": "PROVIDER",
+            "ratio": null,
+            "orientation": null,
+            "language": null
+          },
+          {
+            "source": "https://img.tv4.incomet.io/cd24a938-0da1-43a2-bc13-9852c60547b8/crop2x3.jpg",
+            "imageRatio": "RATIO_2X3",
+            "imageOrientation": null,
+            "imageType": "SERIES_BACKDROP",
+            "width": 2000,
+            "height": 3000,
+            "imageSize": null,
+            "origin": "PROVIDER",
+            "ratio": null,
+            "orientation": null,
+            "language": null
+          },
+          {
+            "source": "https://img.tv4.incomet.io/f8183170-acbf-448a-8597-86e5c80cce15/crop2x3.jpg",
+            "imageRatio": "RATIO_2X3",
+            "imageOrientation": null,
+            "imageType": "SERIES_BACKDROP",
+            "width": 2000,
+            "height": 3000,
+            "imageSize": null,
+            "origin": "PROVIDER",
+            "ratio": null,
+            "orientation": null,
+            "language": null
+          }
+        ],
+        "SERIES_SHOWCARD_ASSEMBLED": [
+          {
+            "source": "https://img.tv4.incomet.io/372b53e9-12b5-4f0d-9a96-591133d496db/crop16x9_w1920_h1080.jpg",
+            "imageRatio": "RATIO_16X9",
+            "imageOrientation": null,
+            "imageType": "SERIES_SHOWCARD_ASSEMBLED",
+            "width": 1920,
+            "height": 1080,
+            "imageSize": null,
+            "origin": "PROVIDER",
+            "ratio": null,
+            "orientation": null,
+            "language": "fi"
+          },
+          {
+            "source": "https://img.tv4.incomet.io/372b53e9-12b5-4f0d-9a96-591133d496db/crop16x9_w1920_h1080.jpg",
+            "imageRatio": "RATIO_16X9",
+            "imageOrientation": null,
+            "imageType": "SERIES_SHOWCARD_ASSEMBLED",
+            "width": 1920,
+            "height": 1080,
+            "imageSize": null,
+            "origin": "PROVIDER",
+            "ratio": null,
+            "orientation": null,
+            "language": "da"
+          },
+          {
+            "source": "https://img.tv4.incomet.io/372b53e9-12b5-4f0d-9a96-591133d496db/crop16x9_w1920_h1080.jpg",
+            "imageRatio": "RATIO_16X9",
+            "imageOrientation": null,
+            "imageType": "SERIES_SHOWCARD_ASSEMBLED",
+            "width": 1920,
+            "height": 1080,
+            "imageSize": null,
+            "origin": "PROVIDER",
+            "ratio": null,
+            "orientation": null,
+            "language": "no"
+          },
+          {
+            "source": "https://img.tv4.incomet.io/372b53e9-12b5-4f0d-9a96-591133d496db/crop16x9_w1920_h1080.jpg",
+            "imageRatio": "RATIO_16X9",
+            "imageOrientation": null,
+            "imageType": "SERIES_SHOWCARD_ASSEMBLED",
+            "width": 1920,
+            "height": 1080,
+            "imageSize": null,
+            "origin": "PROVIDER",
+            "ratio": null,
+            "orientation": null,
+            "language": "sv"
+          }
+        ],
+        "SOURCE_LOGO": [
+          {
+            "source": "/images/SVoD_images/fallbackSquare/fallback_tv12_ny.jpg",
+            "imageRatio": null,
+            "imageOrientation": "PORTRAIT",
+            "imageType": "SOURCE_LOGO",
+            "width": null,
+            "height": null,
+            "imageSize": "UNKNOWN",
+            "origin": "EDITORIAL",
+            "ratio": null,
+            "orientation": null,
+            "language": null
+          },
+          {
+            "source": "/images/logos/tv12_logo_331x38.png",
+            "imageRatio": null,
+            "imageOrientation": "SQUARE",
+            "imageType": "SOURCE_LOGO",
+            "width": null,
+            "height": null,
+            "imageSize": "UNKNOWN",
+            "origin": "EDITORIAL",
+            "ratio": null,
+            "orientation": null,
+            "language": null
+          }
+        ],
+        "SERIES_SHOWCARD": [
+          {
+            "source": "https://img.tv4.incomet.io/27e8b148-11ec-4912-acb2-7c1d4807bd3f/crop2x3.jpg",
+            "imageRatio": "RATIO_2X3",
+            "imageOrientation": null,
+            "imageType": "SERIES_SHOWCARD",
+            "width": 2000,
+            "height": 3000,
+            "imageSize": null,
+            "origin": "PROVIDER",
+            "ratio": null,
+            "orientation": null,
+            "language": "fi"
+          },
+          {
+            "source": "https://img.tv4.incomet.io/27e8b148-11ec-4912-acb2-7c1d4807bd3f/crop2x3.jpg",
+            "imageRatio": "RATIO_2X3",
+            "imageOrientation": null,
+            "imageType": "SERIES_SHOWCARD",
+            "width": 2000,
+            "height": 3000,
+            "imageSize": null,
+            "origin": "PROVIDER",
+            "ratio": null,
+            "orientation": null,
+            "language": "da"
+          },
+          {
+            "source": "https://img.tv4.incomet.io/27e8b148-11ec-4912-acb2-7c1d4807bd3f/crop2x3.jpg",
+            "imageRatio": "RATIO_2X3",
+            "imageOrientation": null,
+            "imageType": "SERIES_SHOWCARD",
+            "width": 2000,
+            "height": 3000,
+            "imageSize": null,
+            "origin": "PROVIDER",
+            "ratio": null,
+            "orientation": null,
+            "language": "no"
+          },
+          {
+            "source": "https://img.tv4.incomet.io/27e8b148-11ec-4912-acb2-7c1d4807bd3f/crop2x3.jpg",
+            "imageRatio": "RATIO_2X3",
+            "imageOrientation": null,
+            "imageType": "SERIES_SHOWCARD",
+            "width": 2000,
+            "height": 3000,
+            "imageSize": null,
+            "origin": "PROVIDER",
+            "ratio": null,
+            "orientation": null,
+            "language": "sv"
+          },
+          {
+            "source": "https://img.tv4.incomet.io/372b53e9-12b5-4f0d-9a96-591133d496db/crop16x9_w1920_h1080.jpg",
+            "imageRatio": "RATIO_16X9",
+            "imageOrientation": null,
+            "imageType": "SERIES_SHOWCARD",
+            "width": 1920,
+            "height": 1080,
+            "imageSize": null,
+            "origin": "PROVIDER",
+            "ratio": null,
+            "orientation": null,
+            "language": "no"
+          },
+          {
+            "source": "https://img.tv4.incomet.io/372b53e9-12b5-4f0d-9a96-591133d496db/crop16x9_w1920_h1080.jpg",
+            "imageRatio": "RATIO_16X9",
+            "imageOrientation": null,
+            "imageType": "SERIES_SHOWCARD",
+            "width": 1920,
+            "height": 1080,
+            "imageSize": null,
+            "origin": "PROVIDER",
+            "ratio": null,
+            "orientation": null,
+            "language": "sv"
+          }
+        ]
+      },
+      "mainGenre": {
+        "value": "DOCUMENTARY",
+        "name": null,
+        "subgenres": []
+      },
+      "tags": [],
+      "ratings": [],
+      "vignettes": [],
+      "releaseDate": null,
+      "ageRating": null,
+      "contentRating": null,
+      "deepLinks": [
+        {
+          "link": "https://l.tv4play.se/ext-series/282016",
+          "platforms": ["DEFAULT", "WEB"]
+        },
+        {
+          "link": "tv4play://ext-series/282016",
+          "platforms": [
+            "ANDROIDMOB",
+            "ANDROIDSTB",
+            "ANDROIDTV",
+            "IOS",
+            "LGTV",
+            "TVOS"
+          ]
+        }
+      ],
+      "checksum": -566919458,
+      "modified": "2024-03-27T11:16:06.038368Z"
+    },
+    "season": {
+      "id": "4b0992bb7c4efae2",
+      "seriesId": "s-9d748e6331d8c7f5",
+      "title": null,
+      "seasonTitle": {
+        "full": null,
+        "sub": null,
+        "original": null,
+        "epg": null
+      },
+      "number": 1,
+      "ordinalString": "1",
+      "synopsis": null,
+      "seasonSynopsis": {
+        "briefSynopsis": {
+          "texts": {
+            "sv": "Följ med bakom kulisserna på Europas största flygplats Heathrow."
+          }
+        },
+        "shortSynopsis": {
+          "texts": {
+            "sv": "Följ med bakom kulisserna på Europas största flygplats Heathrow och möt några av de 76 000 anställda som arbetar med att hålla flygplatsen levande."
+          }
+        },
+        "mediumSynopsis": {
+          "texts": {
+            "sv": "Följ med bakom kulisserna på Europas största flygplats Heathrow som varje år transporterar mer än 70 miljoner passagerare. Utmaningarna är många och vi får följa med på allt ifrån invigningen av en ny terminal till försenade flyg och säkerhetsfrågor"
+          }
+        },
+        "longSynopsis": {
+          "texts": {
+            "sv": "Följ med bakom kulisserna på Europas största flygplats Heathrow. Varje år passerar mer än 70 miljoner passagerare genom flygplatsens terminaler vilket innebär stora utmaningar för de anställda. Tempot är högt och dokumentärserien ger oss en unik inblick i hur allt ifrån säkerhetsfrågor till försenade flyg och hantering av farligt gods hanteras."
+          }
+        },
+        "extendedSynopsis": null
+      },
+      "mainGenre": null,
+      "productionYear": null,
+      "ageRating": null,
+      "contentRating": null,
+      "contributors": {},
+      "credits": {},
+      "references": {},
+      "images": {
+        "SEASON_SCREENSHOT": [
+          {
+            "source": "https://img.tv4.incomet.io/cec49ff1-61ba-4ed1-a9b3-170b93611990/crop16x9_w1920_h1080.jpg",
+            "imageRatio": "RATIO_16X9",
+            "imageOrientation": null,
+            "imageType": "SEASON_SCREENSHOT",
+            "width": 1920,
+            "height": 1080,
+            "imageSize": null,
+            "origin": "PROVIDER",
+            "ratio": null,
+            "orientation": null,
+            "language": null
+          }
+        ],
+        "SEASON_SHOWCARD": [
+          {
+            "source": "https://img.tv4.incomet.io/bdb8ac3d-1cd7-4039-81df-adc20d9b4c87/crop2x3.jpg",
+            "imageRatio": "RATIO_2X3",
+            "imageOrientation": null,
+            "imageType": "SEASON_SHOWCARD",
+            "width": 2000,
+            "height": 3000,
+            "imageSize": null,
+            "origin": "PROVIDER",
+            "ratio": null,
+            "orientation": null,
+            "language": "sv"
+          },
+          {
+            "source": "https://img.tv4.incomet.io/ea27e7cd-9d25-48f3-8c58-20c9e81c0cf3/crop16x9_w1920_h1080.jpg",
+            "imageRatio": "RATIO_16X9",
+            "imageOrientation": null,
+            "imageType": "SEASON_SHOWCARD",
+            "width": 1920,
+            "height": 1080,
+            "imageSize": null,
+            "origin": "PROVIDER",
+            "ratio": null,
+            "orientation": null,
+            "language": "da"
+          },
+          {
+            "source": "https://img.tv4.incomet.io/ea27e7cd-9d25-48f3-8c58-20c9e81c0cf3/crop16x9_w1920_h1080.jpg",
+            "imageRatio": "RATIO_16X9",
+            "imageOrientation": null,
+            "imageType": "SEASON_SHOWCARD",
+            "width": 1920,
+            "height": 1080,
+            "imageSize": null,
+            "origin": "PROVIDER",
+            "ratio": null,
+            "orientation": null,
+            "language": "sv"
+          },
+          {
+            "source": "https://img.tv4.incomet.io/ea27e7cd-9d25-48f3-8c58-20c9e81c0cf3/crop16x9_w1920_h1080.jpg",
+            "imageRatio": "RATIO_16X9",
+            "imageOrientation": null,
+            "imageType": "SEASON_SHOWCARD",
+            "width": 1920,
+            "height": 1080,
+            "imageSize": null,
+            "origin": "PROVIDER",
+            "ratio": null,
+            "orientation": null,
+            "language": "fi"
+          },
+          {
+            "source": "https://img.tv4.incomet.io/ea27e7cd-9d25-48f3-8c58-20c9e81c0cf3/crop16x9_w1920_h1080.jpg",
+            "imageRatio": "RATIO_16X9",
+            "imageOrientation": null,
+            "imageType": "SEASON_SHOWCARD",
+            "width": 1920,
+            "height": 1080,
+            "imageSize": null,
+            "origin": "PROVIDER",
+            "ratio": null,
+            "orientation": null,
+            "language": "no"
+          }
+        ]
+      },
+      "vignettes": [],
+      "deepLinks": [],
+      "releaseDate": null,
+      "checksum": null,
+      "modified": null
+    },
+    "episodes": [],
+    "seasonNumber": 1,
+    "episodeNumbers": [1],
+    "ordinalString": "1",
+    "contributors": {},
+    "credits": {},
+    "length": null,
+    "mainGenre": {
+      "value": "DOCUMENTARY",
+      "name": null,
+      "subgenres": []
+    },
+    "tags": [
+      {
+        "scope": "content-type",
+        "value": "series",
+        "name": null,
+        "decorationAttributes": {}
+      },
+      {
+        "scope": "dynamic-ad-insertion-id",
+        "value": "200053002",
+        "name": null,
+        "decorationAttributes": {}
+      },
+      {
+        "scope": "media-type",
+        "value": "program",
+        "name": null,
+        "decorationAttributes": {}
+      },
+      {
+        "scope": "merge-id",
+        "value": "a2be0778-e913-4f9a-ae1e-3dfa1fbd92e2",
+        "name": null,
+        "decorationAttributes": {}
+      },
+      {
+        "scope": "series-id",
+        "value": "tv4.comet-vod.series.282016",
+        "name": null,
+        "decorationAttributes": {}
+      },
+      {
+        "scope": "series-merge-id",
+        "value": "e6708012-3255-4f9c-8a25-5f285dbe5800",
+        "name": null,
+        "decorationAttributes": {}
+      },
+      {
+        "scope": "timeline-id",
+        "value": "3114_58fe4b1d-1953-4148-8e4e-aece2fae6854",
+        "name": null,
+        "decorationAttributes": {}
+      },
+      {
+        "scope": "title-id",
+        "value": "tv4.comet-vod.title.a2be0778-e913-4f9a-ae1e-3dfa1fbd92e2",
+        "name": null,
+        "decorationAttributes": {}
+      }
+    ],
+    "ageRating": null,
+    "contentRating": null,
+    "parentalControl": null,
+    "images": {
+      "SERIES_BACKDROP": [
+        {
+          "source": "https://img.tv4.incomet.io/c106612f-4e58-47c8-bda2-8e32a2059a64/crop16x9_w1920_h1080.jpg",
+          "imageRatio": "RATIO_16X9",
+          "imageOrientation": null,
+          "imageType": "SERIES_BACKDROP",
+          "width": 1920,
+          "height": 1080,
+          "imageSize": null,
+          "origin": "PROVIDER",
+          "ratio": null,
+          "orientation": null,
+          "language": null
+        },
+        {
+          "source": "https://img.tv4.incomet.io/cc96e82c-8b4c-4bc2-b558-128422b35fb0/crop16x9_w1920_h1080.jpg",
+          "imageRatio": "RATIO_16X9",
+          "imageOrientation": null,
+          "imageType": "SERIES_BACKDROP",
+          "width": 1920,
+          "height": 1080,
+          "imageSize": null,
+          "origin": "PROVIDER",
+          "ratio": null,
+          "orientation": null,
+          "language": null
+        },
+        {
+          "source": "https://img.tv4.incomet.io/cd24a938-0da1-43a2-bc13-9852c60547b8/crop2x3.jpg",
+          "imageRatio": "RATIO_2X3",
+          "imageOrientation": null,
+          "imageType": "SERIES_BACKDROP",
+          "width": 2000,
+          "height": 3000,
+          "imageSize": null,
+          "origin": "PROVIDER",
+          "ratio": null,
+          "orientation": null,
+          "language": null
+        },
+        {
+          "source": "https://img.tv4.incomet.io/f8183170-acbf-448a-8597-86e5c80cce15/crop2x3.jpg",
+          "imageRatio": "RATIO_2X3",
+          "imageOrientation": null,
+          "imageType": "SERIES_BACKDROP",
+          "width": 2000,
+          "height": 3000,
+          "imageSize": null,
+          "origin": "PROVIDER",
+          "ratio": null,
+          "orientation": null,
+          "language": null
+        }
+      ],
+      "SERIES_SHOWCARD_ASSEMBLED": [
+        {
+          "source": "https://img.tv4.incomet.io/372b53e9-12b5-4f0d-9a96-591133d496db/crop16x9_w1920_h1080.jpg",
+          "imageRatio": "RATIO_16X9",
+          "imageOrientation": null,
+          "imageType": "SERIES_SHOWCARD_ASSEMBLED",
+          "width": 1920,
+          "height": 1080,
+          "imageSize": null,
+          "origin": "PROVIDER",
+          "ratio": null,
+          "orientation": null,
+          "language": "fi"
+        },
+        {
+          "source": "https://img.tv4.incomet.io/372b53e9-12b5-4f0d-9a96-591133d496db/crop16x9_w1920_h1080.jpg",
+          "imageRatio": "RATIO_16X9",
+          "imageOrientation": null,
+          "imageType": "SERIES_SHOWCARD_ASSEMBLED",
+          "width": 1920,
+          "height": 1080,
+          "imageSize": null,
+          "origin": "PROVIDER",
+          "ratio": null,
+          "orientation": null,
+          "language": "da"
+        },
+        {
+          "source": "https://img.tv4.incomet.io/372b53e9-12b5-4f0d-9a96-591133d496db/crop16x9_w1920_h1080.jpg",
+          "imageRatio": "RATIO_16X9",
+          "imageOrientation": null,
+          "imageType": "SERIES_SHOWCARD_ASSEMBLED",
+          "width": 1920,
+          "height": 1080,
+          "imageSize": null,
+          "origin": "PROVIDER",
+          "ratio": null,
+          "orientation": null,
+          "language": "no"
+        },
+        {
+          "source": "https://img.tv4.incomet.io/372b53e9-12b5-4f0d-9a96-591133d496db/crop16x9_w1920_h1080.jpg",
+          "imageRatio": "RATIO_16X9",
+          "imageOrientation": null,
+          "imageType": "SERIES_SHOWCARD_ASSEMBLED",
+          "width": 1920,
+          "height": 1080,
+          "imageSize": null,
+          "origin": "PROVIDER",
+          "ratio": null,
+          "orientation": null,
+          "language": "sv"
+        }
+      ],
+      "PROGRAM_SCREENSHOT": [
+        {
+          "source": "https://img.tv4.incomet.io/ea1d9d4b-d470-4cbc-a746-ce1fb51fb1d1/crop16x9_w1920_h1080.jpg",
+          "imageRatio": "RATIO_16X9",
+          "imageOrientation": null,
+          "imageType": "PROGRAM_SCREENSHOT",
+          "width": 1920,
+          "height": 1080,
+          "imageSize": null,
+          "origin": "PROVIDER",
+          "ratio": null,
+          "orientation": null,
+          "language": null
+        }
+      ],
+      "SERIES_SHOWCARD": [
+        {
+          "source": "https://img.tv4.incomet.io/27e8b148-11ec-4912-acb2-7c1d4807bd3f/crop2x3.jpg",
+          "imageRatio": "RATIO_2X3",
+          "imageOrientation": null,
+          "imageType": "SERIES_SHOWCARD",
+          "width": 2000,
+          "height": 3000,
+          "imageSize": null,
+          "origin": "PROVIDER",
+          "ratio": null,
+          "orientation": null,
+          "language": "fi"
+        },
+        {
+          "source": "https://img.tv4.incomet.io/27e8b148-11ec-4912-acb2-7c1d4807bd3f/crop2x3.jpg",
+          "imageRatio": "RATIO_2X3",
+          "imageOrientation": null,
+          "imageType": "SERIES_SHOWCARD",
+          "width": 2000,
+          "height": 3000,
+          "imageSize": null,
+          "origin": "PROVIDER",
+          "ratio": null,
+          "orientation": null,
+          "language": "da"
+        },
+        {
+          "source": "https://img.tv4.incomet.io/27e8b148-11ec-4912-acb2-7c1d4807bd3f/crop2x3.jpg",
+          "imageRatio": "RATIO_2X3",
+          "imageOrientation": null,
+          "imageType": "SERIES_SHOWCARD",
+          "width": 2000,
+          "height": 3000,
+          "imageSize": null,
+          "origin": "PROVIDER",
+          "ratio": null,
+          "orientation": null,
+          "language": "no"
+        },
+        {
+          "source": "https://img.tv4.incomet.io/27e8b148-11ec-4912-acb2-7c1d4807bd3f/crop2x3.jpg",
+          "imageRatio": "RATIO_2X3",
+          "imageOrientation": null,
+          "imageType": "SERIES_SHOWCARD",
+          "width": 2000,
+          "height": 3000,
+          "imageSize": null,
+          "origin": "PROVIDER",
+          "ratio": null,
+          "orientation": null,
+          "language": "sv"
+        },
+        {
+          "source": "https://img.tv4.incomet.io/372b53e9-12b5-4f0d-9a96-591133d496db/crop16x9_w1920_h1080.jpg",
+          "imageRatio": "RATIO_16X9",
+          "imageOrientation": null,
+          "imageType": "SERIES_SHOWCARD",
+          "width": 1920,
+          "height": 1080,
+          "imageSize": null,
+          "origin": "PROVIDER",
+          "ratio": null,
+          "orientation": null,
+          "language": "no"
+        },
+        {
+          "source": "https://img.tv4.incomet.io/372b53e9-12b5-4f0d-9a96-591133d496db/crop16x9_w1920_h1080.jpg",
+          "imageRatio": "RATIO_16X9",
+          "imageOrientation": null,
+          "imageType": "SERIES_SHOWCARD",
+          "width": 1920,
+          "height": 1080,
+          "imageSize": null,
+          "origin": "PROVIDER",
+          "ratio": null,
+          "orientation": null,
+          "language": "sv"
+        }
+      ]
+    },
+    "awards": [],
+    "synopsis": {
+      "briefSynopsis": {
+        "texts": {
+          "sv": "Personalen arbetar mot klockan för att ta emot tusentals passagerare."
+        }
+      },
+      "shortSynopsis": null,
+      "mediumSynopsis": {
+        "texts": {
+          "sv": "Programstart. För personalen på Europas största flygplats är det aldrig en lugn stund. Denna dag arbetar personalen mot klockan för att ta emot tusentals passagerare från 84 länder. Även på djurcentret har personalen fullt upp då en tiger anlänt."
+        }
+      },
+      "longSynopsis": null,
+      "extendedSynopsis": null
+    },
+    "ratings": [],
+    "productionYear": 2015,
+    "countryOfOrigin": ["GB"],
+    "references": {
+      "LINK": [
+        {
+          "id": "APP_477811",
+          "referenceType": "LINK",
+          "referenceDecorations": {
+            "LINK": "tv4play://ext-series/282016",
+            "NAME": "APP"
+          }
+        },
+        {
+          "id": "COMET_VOD_477811",
+          "referenceType": "LINK",
+          "referenceDecorations": {
+            "LINK": "https://tv4.incomet.io/api/vod/assets/477811",
+            "NAME": "COMET_VOD"
+          }
+        },
+        {
+          "id": "WEB_477811",
+          "referenceType": "LINK",
+          "referenceDecorations": {
+            "LINK": "https://l.tv4play.se/ext-series/282016",
+            "NAME": "WEB"
+          }
+        }
+      ]
+    },
+    "ids": {},
+    "vignettes": [],
+    "sport": null,
+    "releaseDate": null
+  },
+  "providerMetadata": {
+    "metadataSource": "PROVIDER",
+    "title": {
+      "full": {
+        "texts": {
+          "sv": "Heathrow"
+        }
+      },
+      "sub": null,
+      "original": null,
+      "epg": null
+    },
+    "series": {
+      "id": "s-9d748e6331d8c7f5",
+      "globalId": "gs-f847a9ecbdda736cdb4ea7e8e50724f9f",
+      "countryCode": null,
+      "upstreamModified": null,
+      "title": null,
+      "seriesTitle": {
+        "full": {
+          "texts": {
+            "sv": "Heathrow"
+          }
+        },
+        "sub": null,
+        "original": null,
+        "epg": null
+      },
+      "synopsis": null,
+      "seriesSynopsis": {
+        "briefSynopsis": {
+          "texts": {
+            "sv": "Brittisk dokumentärserie."
+          }
+        },
+        "shortSynopsis": {
+          "texts": {
+            "sv": "Varje år passerar fler än 70 miljoner resenärer Europas största flygplats Heathrow. I den här serien tar vi oss in bakom kulisserna."
+          }
+        },
+        "mediumSynopsis": {
+          "texts": {
+            "sv": "Följ med bakom kulisserna på Europas största flygplats Heathrow. Varje år passerar mer än 70 miljoner passagerare flygplatsens terminaler vilket innebär att ingen dag är den andra lik för flygplatsens 76 000 anställda."
+          }
+        },
+        "longSynopsis": {
+          "texts": {
+            "sv": "Följ med bakom kulisserna på Europas största flygplats. Flygplatsen som är öppen 24 timmar om dygnet transporterar mer internationella resenärer än någon annan flygplats i världen. För flygplatsens 76 000 anställda är tempot ständigt högt och dokumentärserien ger oss en unik inblick i de utmaningar och möjligheter som flygplatsen står inför."
+          }
+        },
+        "extendedSynopsis": null
+      },
+      "seasons": [
+        {
+          "id": "4b0992bb7c4efae2",
+          "seriesId": "s-9d748e6331d8c7f5",
+          "title": null,
+          "seasonTitle": {
+            "full": null,
+            "sub": null,
+            "original": null,
+            "epg": null
+          },
+          "number": 1,
+          "ordinalString": "1",
+          "synopsis": null,
+          "seasonSynopsis": {
+            "briefSynopsis": {
+              "texts": {
+                "sv": "Följ med bakom kulisserna på Europas största flygplats Heathrow."
+              }
+            },
+            "shortSynopsis": {
+              "texts": {
+                "sv": "Följ med bakom kulisserna på Europas största flygplats Heathrow och möt några av de 76 000 anställda som arbetar med att hålla flygplatsen levande."
+              }
+            },
+            "mediumSynopsis": {
+              "texts": {
+                "sv": "Följ med bakom kulisserna på Europas största flygplats Heathrow som varje år transporterar mer än 70 miljoner passagerare. Utmaningarna är många och vi får följa med på allt ifrån invigningen av en ny terminal till försenade flyg och säkerhetsfrågor"
+              }
+            },
+            "longSynopsis": {
+              "texts": {
+                "sv": "Följ med bakom kulisserna på Europas största flygplats Heathrow. Varje år passerar mer än 70 miljoner passagerare genom flygplatsens terminaler vilket innebär stora utmaningar för de anställda. Tempot är högt och dokumentärserien ger oss en unik inblick i hur allt ifrån säkerhetsfrågor till försenade flyg och hantering av farligt gods hanteras."
+              }
+            },
+            "extendedSynopsis": null
+          },
+          "mainGenre": null,
+          "productionYear": null,
+          "ageRating": null,
+          "contentRating": null,
+          "contributors": {},
+          "credits": {},
+          "references": {},
+          "images": {
+            "SEASON_SCREENSHOT": [
+              {
+                "source": "https://img.tv4.incomet.io/cec49ff1-61ba-4ed1-a9b3-170b93611990/crop16x9_w1920_h1080.jpg",
+                "imageRatio": "RATIO_16X9",
+                "imageOrientation": null,
+                "imageType": "SEASON_SCREENSHOT",
+                "width": 1920,
+                "height": 1080,
+                "imageSize": null,
+                "origin": "PROVIDER",
+                "ratio": null,
+                "orientation": null,
+                "language": null
+              }
+            ],
+            "SEASON_SHOWCARD": [
+              {
+                "source": "https://img.tv4.incomet.io/bdb8ac3d-1cd7-4039-81df-adc20d9b4c87/crop2x3.jpg",
+                "imageRatio": "RATIO_2X3",
+                "imageOrientation": null,
+                "imageType": "SEASON_SHOWCARD",
+                "width": 2000,
+                "height": 3000,
+                "imageSize": null,
+                "origin": "PROVIDER",
+                "ratio": null,
+                "orientation": null,
+                "language": "sv"
+              },
+              {
+                "source": "https://img.tv4.incomet.io/ea27e7cd-9d25-48f3-8c58-20c9e81c0cf3/crop16x9_w1920_h1080.jpg",
+                "imageRatio": "RATIO_16X9",
+                "imageOrientation": null,
+                "imageType": "SEASON_SHOWCARD",
+                "width": 1920,
+                "height": 1080,
+                "imageSize": null,
+                "origin": "PROVIDER",
+                "ratio": null,
+                "orientation": null,
+                "language": "da"
+              },
+              {
+                "source": "https://img.tv4.incomet.io/ea27e7cd-9d25-48f3-8c58-20c9e81c0cf3/crop16x9_w1920_h1080.jpg",
+                "imageRatio": "RATIO_16X9",
+                "imageOrientation": null,
+                "imageType": "SEASON_SHOWCARD",
+                "width": 1920,
+                "height": 1080,
+                "imageSize": null,
+                "origin": "PROVIDER",
+                "ratio": null,
+                "orientation": null,
+                "language": "sv"
+              },
+              {
+                "source": "https://img.tv4.incomet.io/ea27e7cd-9d25-48f3-8c58-20c9e81c0cf3/crop16x9_w1920_h1080.jpg",
+                "imageRatio": "RATIO_16X9",
+                "imageOrientation": null,
+                "imageType": "SEASON_SHOWCARD",
+                "width": 1920,
+                "height": 1080,
+                "imageSize": null,
+                "origin": "PROVIDER",
+                "ratio": null,
+                "orientation": null,
+                "language": "fi"
+              },
+              {
+                "source": "https://img.tv4.incomet.io/ea27e7cd-9d25-48f3-8c58-20c9e81c0cf3/crop16x9_w1920_h1080.jpg",
+                "imageRatio": "RATIO_16X9",
+                "imageOrientation": null,
+                "imageType": "SEASON_SHOWCARD",
+                "width": 1920,
+                "height": 1080,
+                "imageSize": null,
+                "origin": "PROVIDER",
+                "ratio": null,
+                "orientation": null,
+                "language": "no"
+              }
+            ]
+          },
+          "vignettes": [],
+          "deepLinks": [],
+          "releaseDate": null,
+          "checksum": null,
+          "modified": null
+        },
+        {
+          "id": "b944b69ea7205729",
+          "seriesId": "s-9d748e6331d8c7f5",
+          "title": null,
+          "seasonTitle": {
+            "full": null,
+            "sub": null,
+            "original": null,
+            "epg": null
+          },
+          "number": 2,
+          "ordinalString": "2",
+          "synopsis": null,
+          "seasonSynopsis": {
+            "briefSynopsis": {
+              "texts": {
+                "sv": "Följ med bakom kulisserna på Europas största flygplats Heathrow."
+              }
+            },
+            "shortSynopsis": {
+              "texts": {
+                "sv": "Följ med bakom kulisserna på Europas största flygplats Heathrow och möt några av de 76 000 anställda som arbetar med att hålla flygplatsen fungerande."
+              }
+            },
+            "mediumSynopsis": {
+              "texts": {
+                "sv": "Följ med bakom kulisserna på Europas största flygplats och möt några av de 76 000 anställda som arbetar dygnet runt med att hålla flygplatsen fungerande. Ingen dag är den andra lik och de får hantera allt ifrån farligt gods till bråkiga passagerare."
+              }
+            },
+            "longSynopsis": {
+              "texts": {
+                "sv": "Följ med bakom kulisserna på Europas största flygplats och möt några av de 76 000 anställda som arbetar dygnet runt med att hålla flygplatsen fungerande. Ingen dag är den andra lik och de får hantera allt ifrån farligt gods till bråkiga passagerare och oväntade gäster nere på djurcentret."
+              }
+            },
+            "extendedSynopsis": {
+              "texts": {
+                "sv": "Följ med bakom kulisserna på Europas största flygplats och möt några av de 76 000 anställda som arbetar dygnet runt med att hålla flygplatsen fungerande. Ingen dag är den andra lik och de får hantera allt ifrån farligt gods till bråkiga passagerare och oväntade gäster nere på djurcentret."
+              }
+            }
+          },
+          "mainGenre": null,
+          "productionYear": null,
+          "ageRating": null,
+          "contentRating": null,
+          "contributors": {},
+          "credits": {},
+          "references": {},
+          "images": {
+            "SEASON_SCREENSHOT": [
+              {
+                "source": "https://img.tv4.incomet.io/cec49ff1-61ba-4ed1-a9b3-170b93611990/crop16x9_w1920_h1080.jpg",
+                "imageRatio": "RATIO_16X9",
+                "imageOrientation": null,
+                "imageType": "SEASON_SCREENSHOT",
+                "width": 1920,
+                "height": 1080,
+                "imageSize": null,
+                "origin": "PROVIDER",
+                "ratio": null,
+                "orientation": null,
+                "language": null
+              }
+            ],
+            "SEASON_SHOWCARD": [
+              {
+                "source": "https://img.tv4.incomet.io/bdb8ac3d-1cd7-4039-81df-adc20d9b4c87/crop2x3.jpg",
+                "imageRatio": "RATIO_2X3",
+                "imageOrientation": null,
+                "imageType": "SEASON_SHOWCARD",
+                "width": 2000,
+                "height": 3000,
+                "imageSize": null,
+                "origin": "PROVIDER",
+                "ratio": null,
+                "orientation": null,
+                "language": "sv"
+              },
+              {
+                "source": "https://img.tv4.incomet.io/ea27e7cd-9d25-48f3-8c58-20c9e81c0cf3/crop16x9_w1920_h1080.jpg",
+                "imageRatio": "RATIO_16X9",
+                "imageOrientation": null,
+                "imageType": "SEASON_SHOWCARD",
+                "width": 1920,
+                "height": 1080,
+                "imageSize": null,
+                "origin": "PROVIDER",
+                "ratio": null,
+                "orientation": null,
+                "language": "no"
+              },
+              {
+                "source": "https://img.tv4.incomet.io/ea27e7cd-9d25-48f3-8c58-20c9e81c0cf3/crop16x9_w1920_h1080.jpg",
+                "imageRatio": "RATIO_16X9",
+                "imageOrientation": null,
+                "imageType": "SEASON_SHOWCARD",
+                "width": 1920,
+                "height": 1080,
+                "imageSize": null,
+                "origin": "PROVIDER",
+                "ratio": null,
+                "orientation": null,
+                "language": "da"
+              },
+              {
+                "source": "https://img.tv4.incomet.io/ea27e7cd-9d25-48f3-8c58-20c9e81c0cf3/crop16x9_w1920_h1080.jpg",
+                "imageRatio": "RATIO_16X9",
+                "imageOrientation": null,
+                "imageType": "SEASON_SHOWCARD",
+                "width": 1920,
+                "height": 1080,
+                "imageSize": null,
+                "origin": "PROVIDER",
+                "ratio": null,
+                "orientation": null,
+                "language": "sv"
+              },
+              {
+                "source": "https://img.tv4.incomet.io/ea27e7cd-9d25-48f3-8c58-20c9e81c0cf3/crop16x9_w1920_h1080.jpg",
+                "imageRatio": "RATIO_16X9",
+                "imageOrientation": null,
+                "imageType": "SEASON_SHOWCARD",
+                "width": 1920,
+                "height": 1080,
+                "imageSize": null,
+                "origin": "PROVIDER",
+                "ratio": null,
+                "orientation": null,
+                "language": "fi"
+              }
+            ]
+          },
+          "vignettes": [],
+          "deepLinks": [],
+          "releaseDate": null,
+          "checksum": null,
+          "modified": null
+        },
+        {
+          "id": "s-164280_3",
+          "seriesId": "s-164280",
+          "title": {
+            "texts": {
+              "sv": "Heathrow"
+            }
+          },
+          "seasonTitle": null,
+          "number": 3,
+          "ordinalString": "3",
+          "synopsis": {
+            "texts": {
+              "sv": "Brittisk dokumentärserie från 2017. Följ med bakom kulisserna på Europas största flygplats och möt några av de 76 000 anställda som arbetar dygnet runt med att hålla flygplatsen fungerande. Ingen dag är den andra lik och de får hantera allt ifrån farligt gods till bråkiga passagerare."
+            }
+          },
+          "seasonSynopsis": null,
+          "mainGenre": null,
+          "productionYear": null,
+          "ageRating": null,
+          "contentRating": null,
+          "contributors": {},
+          "credits": {},
+          "references": {},
+          "images": {
+            "UNKNOWN": [
+              {
+                "source": "/image_storage/se.tv4/006/174/9200961.jpg",
+                "imageRatio": null,
+                "imageOrientation": "PORTRAIT",
+                "imageType": "UNKNOWN",
+                "width": null,
+                "height": null,
+                "imageSize": null,
+                "origin": "PROVIDER",
+                "ratio": null,
+                "orientation": null,
+                "language": null
+              }
+            ]
+          },
+          "vignettes": [],
+          "deepLinks": [],
+          "releaseDate": null,
+          "checksum": null,
+          "modified": null
+        },
+        {
+          "id": "54f50afe46a9f144",
+          "seriesId": "s-9d748e6331d8c7f5",
+          "title": null,
+          "seasonTitle": {
+            "full": null,
+            "sub": null,
+            "original": null,
+            "epg": null
+          },
+          "number": 4,
+          "ordinalString": "4",
+          "synopsis": null,
+          "seasonSynopsis": {
+            "briefSynopsis": {
+              "texts": {
+                "sv": "Brittisk dokumentärserie från 2018."
+              }
+            },
+            "shortSynopsis": {
+              "texts": {
+                "sv": "Följ med bakom kulisserna på Europas största flygplats Heathrow."
+              }
+            },
+            "mediumSynopsis": {
+              "texts": {
+                "sv": "Följ med bakom kulisserna på Europas största flygplats och möt några av de 76 000 anställda som arbetar dygnet runt med att hålla flygplatsen fungerande. Ingen dag är den andra lik och de får hantera allt ifrån farligt gods till bråkiga passagerare."
+              }
+            },
+            "longSynopsis": {
+              "texts": {
+                "sv": "Brittisk dokumentärserie från 2018. Följ med bakom kulisserna på Europas största flygplats och möt några av de 76 000 anställda som arbetar dygnet runt med att hålla flygplatsen fungerande. Ingen dag är den andra lik och de får hantera allt ifrån farligt gods till bråkiga passagerare."
+              }
+            },
+            "extendedSynopsis": null
+          },
+          "mainGenre": null,
+          "productionYear": null,
+          "ageRating": null,
+          "contentRating": null,
+          "contributors": {},
+          "credits": {},
+          "references": {},
+          "images": {
+            "SEASON_SCREENSHOT": [
+              {
+                "source": "https://img.tv4.incomet.io/cec49ff1-61ba-4ed1-a9b3-170b93611990/crop16x9_w1920_h1080.jpg",
+                "imageRatio": "RATIO_16X9",
+                "imageOrientation": null,
+                "imageType": "SEASON_SCREENSHOT",
+                "width": 1920,
+                "height": 1080,
+                "imageSize": null,
+                "origin": "PROVIDER",
+                "ratio": null,
+                "orientation": null,
+                "language": null
+              }
+            ],
+            "SEASON_SHOWCARD": [
+              {
+                "source": "https://img.tv4.incomet.io/bdb8ac3d-1cd7-4039-81df-adc20d9b4c87/crop2x3.jpg",
+                "imageRatio": "RATIO_2X3",
+                "imageOrientation": null,
+                "imageType": "SEASON_SHOWCARD",
+                "width": 2000,
+                "height": 3000,
+                "imageSize": null,
+                "origin": "PROVIDER",
+                "ratio": null,
+                "orientation": null,
+                "language": "sv"
+              },
+              {
+                "source": "https://img.tv4.incomet.io/ea27e7cd-9d25-48f3-8c58-20c9e81c0cf3/crop16x9_w1920_h1080.jpg",
+                "imageRatio": "RATIO_16X9",
+                "imageOrientation": null,
+                "imageType": "SEASON_SHOWCARD",
+                "width": 1920,
+                "height": 1080,
+                "imageSize": null,
+                "origin": "PROVIDER",
+                "ratio": null,
+                "orientation": null,
+                "language": "da"
+              },
+              {
+                "source": "https://img.tv4.incomet.io/ea27e7cd-9d25-48f3-8c58-20c9e81c0cf3/crop16x9_w1920_h1080.jpg",
+                "imageRatio": "RATIO_16X9",
+                "imageOrientation": null,
+                "imageType": "SEASON_SHOWCARD",
+                "width": 1920,
+                "height": 1080,
+                "imageSize": null,
+                "origin": "PROVIDER",
+                "ratio": null,
+                "orientation": null,
+                "language": "sv"
+              },
+              {
+                "source": "https://img.tv4.incomet.io/ea27e7cd-9d25-48f3-8c58-20c9e81c0cf3/crop16x9_w1920_h1080.jpg",
+                "imageRatio": "RATIO_16X9",
+                "imageOrientation": null,
+                "imageType": "SEASON_SHOWCARD",
+                "width": 1920,
+                "height": 1080,
+                "imageSize": null,
+                "origin": "PROVIDER",
+                "ratio": null,
+                "orientation": null,
+                "language": "fi"
+              },
+              {
+                "source": "https://img.tv4.incomet.io/ea27e7cd-9d25-48f3-8c58-20c9e81c0cf3/crop16x9_w1920_h1080.jpg",
+                "imageRatio": "RATIO_16X9",
+                "imageOrientation": null,
+                "imageType": "SEASON_SHOWCARD",
+                "width": 1920,
+                "height": 1080,
+                "imageSize": null,
+                "origin": "PROVIDER",
+                "ratio": null,
+                "orientation": null,
+                "language": "no"
+              }
+            ]
+          },
+          "vignettes": [],
+          "deepLinks": [],
+          "releaseDate": null,
+          "checksum": null,
+          "modified": null
+        },
+        {
+          "id": "bae429f1a003a437",
+          "seriesId": "s-9d748e6331d8c7f5",
+          "title": null,
+          "seasonTitle": {
+            "full": null,
+            "sub": null,
+            "original": null,
+            "epg": null
+          },
+          "number": 7,
+          "ordinalString": "7",
+          "synopsis": null,
+          "seasonSynopsis": {
+            "briefSynopsis": {
+              "texts": {
+                "sv": "Brittisk dokumentärserie från 2021."
+              }
+            },
+            "shortSynopsis": {
+              "texts": {
+                "sv": "Följ med bakom kulisserna på Europas största flygplats!"
+              }
+            },
+            "mediumSynopsis": {
+              "texts": {
+                "sv": "Denna säsong ställs Heathrows anställda inför helt nya utmaningar när coronapandemin lamslår världen. Med endast två terminaler öppna kämpar personalen med att hålla verksamheten vid liv samtidigt som de gör allt för att förhindra smittspridning."
+              }
+            },
+            "longSynopsis": {
+              "texts": {
+                "sv": "Följ med bakom kulisserna på Europas största flygplats! Denna säsong ställs Heathrows anställda inför helt nya utmaningar när coronapandemin lamslår världen. Med endast två terminaler öppna kämpar personalen med att hålla verksamheten vid liv samtidigt som de gör allt för att förhindra smittspridning."
+              }
+            },
+            "extendedSynopsis": null
+          },
+          "mainGenre": null,
+          "productionYear": null,
+          "ageRating": null,
+          "contentRating": null,
+          "contributors": {},
+          "credits": {},
+          "references": {},
+          "images": {
+            "SEASON_BACKDROP": [
+              {
+                "source": "https://img.tv4.incomet.io/cc96e82c-8b4c-4bc2-b558-128422b35fb0/crop16x9_w1920_h1080.jpg",
+                "imageRatio": "RATIO_16X9",
+                "imageOrientation": null,
+                "imageType": "SEASON_BACKDROP",
+                "width": 1920,
+                "height": 1080,
+                "imageSize": null,
+                "origin": "PROVIDER",
+                "ratio": null,
+                "orientation": null,
+                "language": null
+              },
+              {
+                "source": "https://img.tv4.incomet.io/cd24a938-0da1-43a2-bc13-9852c60547b8/crop2x3.jpg",
+                "imageRatio": "RATIO_2X3",
+                "imageOrientation": null,
+                "imageType": "SEASON_BACKDROP",
+                "width": 2000,
+                "height": 3000,
+                "imageSize": null,
+                "origin": "PROVIDER",
+                "ratio": null,
+                "orientation": null,
+                "language": null
+              },
+              {
+                "source": "https://img.tv4.incomet.io/f8183170-acbf-448a-8597-86e5c80cce15/crop2x3.jpg",
+                "imageRatio": "RATIO_2X3",
+                "imageOrientation": null,
+                "imageType": "SEASON_BACKDROP",
+                "width": 2000,
+                "height": 3000,
+                "imageSize": null,
+                "origin": "PROVIDER",
+                "ratio": null,
+                "orientation": null,
+                "language": null
+              }
+            ],
+            "SEASON_SCREENSHOT": [
+              {
+                "source": "https://img.tv4.incomet.io/c106612f-4e58-47c8-bda2-8e32a2059a64/crop16x9_w1920_h1080.jpg",
+                "imageRatio": "RATIO_16X9",
+                "imageOrientation": null,
+                "imageType": "SEASON_SCREENSHOT",
+                "width": 1920,
+                "height": 1080,
+                "imageSize": null,
+                "origin": "PROVIDER",
+                "ratio": null,
+                "orientation": null,
+                "language": null
+              }
+            ],
+            "SEASON_SHOWCARD": [
+              {
+                "source": "https://img.tv4.incomet.io/27e8b148-11ec-4912-acb2-7c1d4807bd3f/crop2x3.jpg",
+                "imageRatio": "RATIO_2X3",
+                "imageOrientation": null,
+                "imageType": "SEASON_SHOWCARD",
+                "width": 2000,
+                "height": 3000,
+                "imageSize": null,
+                "origin": "PROVIDER",
+                "ratio": null,
+                "orientation": null,
+                "language": "fi"
+              },
+              {
+                "source": "https://img.tv4.incomet.io/27e8b148-11ec-4912-acb2-7c1d4807bd3f/crop2x3.jpg",
+                "imageRatio": "RATIO_2X3",
+                "imageOrientation": null,
+                "imageType": "SEASON_SHOWCARD",
+                "width": 2000,
+                "height": 3000,
+                "imageSize": null,
+                "origin": "PROVIDER",
+                "ratio": null,
+                "orientation": null,
+                "language": "da"
+              },
+              {
+                "source": "https://img.tv4.incomet.io/27e8b148-11ec-4912-acb2-7c1d4807bd3f/crop2x3.jpg",
+                "imageRatio": "RATIO_2X3",
+                "imageOrientation": null,
+                "imageType": "SEASON_SHOWCARD",
+                "width": 2000,
+                "height": 3000,
+                "imageSize": null,
+                "origin": "PROVIDER",
+                "ratio": null,
+                "orientation": null,
+                "language": "no"
+              },
+              {
+                "source": "https://img.tv4.incomet.io/27e8b148-11ec-4912-acb2-7c1d4807bd3f/crop2x3.jpg",
+                "imageRatio": "RATIO_2X3",
+                "imageOrientation": null,
+                "imageType": "SEASON_SHOWCARD",
+                "width": 2000,
+                "height": 3000,
+                "imageSize": null,
+                "origin": "PROVIDER",
+                "ratio": null,
+                "orientation": null,
+                "language": "sv"
+              },
+              {
+                "source": "https://img.tv4.incomet.io/372b53e9-12b5-4f0d-9a96-591133d496db/crop16x9_w1920_h1080.jpg",
+                "imageRatio": "RATIO_16X9",
+                "imageOrientation": null,
+                "imageType": "SEASON_SHOWCARD",
+                "width": 1920,
+                "height": 1080,
+                "imageSize": null,
+                "origin": "PROVIDER",
+                "ratio": null,
+                "orientation": null,
+                "language": "no"
+              },
+              {
+                "source": "https://img.tv4.incomet.io/372b53e9-12b5-4f0d-9a96-591133d496db/crop16x9_w1920_h1080.jpg",
+                "imageRatio": "RATIO_16X9",
+                "imageOrientation": null,
+                "imageType": "SEASON_SHOWCARD",
+                "width": 1920,
+                "height": 1080,
+                "imageSize": null,
+                "origin": "PROVIDER",
+                "ratio": null,
+                "orientation": null,
+                "language": "sv"
+              },
+              {
+                "source": "https://img.tv4.incomet.io/372b53e9-12b5-4f0d-9a96-591133d496db/crop16x9_w1920_h1080.jpg",
+                "imageRatio": "RATIO_16X9",
+                "imageOrientation": null,
+                "imageType": "SEASON_SHOWCARD",
+                "width": 1920,
+                "height": 1080,
+                "imageSize": null,
+                "origin": "PROVIDER",
+                "ratio": null,
+                "orientation": null,
+                "language": "fi"
+              },
+              {
+                "source": "https://img.tv4.incomet.io/372b53e9-12b5-4f0d-9a96-591133d496db/crop16x9_w1920_h1080.jpg",
+                "imageRatio": "RATIO_16X9",
+                "imageOrientation": null,
+                "imageType": "SEASON_SHOWCARD",
+                "width": 1920,
+                "height": 1080,
+                "imageSize": null,
+                "origin": "PROVIDER",
+                "ratio": null,
+                "orientation": null,
+                "language": "da"
+              },
+              {
+                "source": "https://img.tv4.incomet.io/372b53e9-12b5-4f0d-9a96-591133d496db/crop16x9_w1920_h1080.jpg",
+                "imageRatio": "RATIO_16X9",
+                "imageOrientation": null,
+                "imageType": "SEASON_SHOWCARD",
+                "width": 1920,
+                "height": 1080,
+                "imageSize": null,
+                "origin": "PROVIDER",
+                "ratio": null,
+                "orientation": null,
+                "language": "no"
+              },
+              {
+                "source": "https://img.tv4.incomet.io/372b53e9-12b5-4f0d-9a96-591133d496db/crop16x9_w1920_h1080.jpg",
+                "imageRatio": "RATIO_16X9",
+                "imageOrientation": null,
+                "imageType": "SEASON_SHOWCARD",
+                "width": 1920,
+                "height": 1080,
+                "imageSize": null,
+                "origin": "PROVIDER",
+                "ratio": null,
+                "orientation": null,
+                "language": "sv"
+              }
+            ]
+          },
+          "vignettes": [],
+          "deepLinks": [],
+          "releaseDate": null,
+          "checksum": null,
+          "modified": null
+        },
+        {
+          "id": "82ae6d27d63f7113",
+          "seriesId": "s-9d748e6331d8c7f5",
+          "title": null,
+          "seasonTitle": {
+            "full": null,
+            "sub": null,
+            "original": null,
+            "epg": null
+          },
+          "number": 8,
+          "ordinalString": "8",
+          "synopsis": null,
+          "seasonSynopsis": {
+            "briefSynopsis": {
+              "texts": {
+                "sv": "Brittisk dokumentärserie från 2022."
+              }
+            },
+            "shortSynopsis": {
+              "texts": {
+                "sv": "Följ med bakom kulisserna på Europas största flygplats Heathrow!"
+              }
+            },
+            "mediumSynopsis": {
+              "texts": {
+                "sv": "Europas största flygplats Heathrow står inför sin tuffaste sommar någonsin då miljontals resenärer har börjat flyga efter pandemin. Personalen kämpar med förseningar, inställda flygningar och saknade bagage, alltid med ett leende på läpparna."
+              }
+            },
+            "longSynopsis": {
+              "texts": {
+                "sv": "Följ med bakom kulisserna på Europas största flygplats Heathrow! Denna säsong ställs Heathrows anställda inför sin tuffaste sommar någonsin då miljontals resenärer har börjat flyga efter pandemin. Personalen kämpar med förseningar, inställda flygningar och saknade bagage, alltid med ett leende på läpparna."
+              }
+            },
+            "extendedSynopsis": {
+              "texts": {
+                "sv": "Följ med bakom kulisserna på Europas största flygplats Heathrow! Denna säsong ställs Heathrows anställda inför sin tuffaste sommar någonsin då miljontals resenärer har börjat flyga efter pandemin. Personalen kämpar med förseningar, inställda flygningar och saknade bagage, alltid med ett leende på läpparna."
+              }
+            }
+          },
+          "mainGenre": null,
+          "productionYear": null,
+          "ageRating": null,
+          "contentRating": null,
+          "contributors": {},
+          "credits": {},
+          "references": {},
+          "images": {
+            "SEASON_BACKDROP": [
+              {
+                "source": "https://img.tv4.incomet.io/cd24a938-0da1-43a2-bc13-9852c60547b8/crop2x3.jpg",
+                "imageRatio": "RATIO_2X3",
+                "imageOrientation": null,
+                "imageType": "SEASON_BACKDROP",
+                "width": 2000,
+                "height": 3000,
+                "imageSize": null,
+                "origin": "PROVIDER",
+                "ratio": null,
+                "orientation": null,
+                "language": null
+              },
+              {
+                "source": "https://img.tv4.incomet.io/f8183170-acbf-448a-8597-86e5c80cce15/crop2x3.jpg",
+                "imageRatio": "RATIO_2X3",
+                "imageOrientation": null,
+                "imageType": "SEASON_BACKDROP",
+                "width": 2000,
+                "height": 3000,
+                "imageSize": null,
+                "origin": "PROVIDER",
+                "ratio": null,
+                "orientation": null,
+                "language": null
+              }
+            ],
+            "SEASON_SCREENSHOT": [
+              {
+                "source": "https://img.tv4.incomet.io/c106612f-4e58-47c8-bda2-8e32a2059a64/crop16x9_w1920_h1080.jpg",
+                "imageRatio": "RATIO_16X9",
+                "imageOrientation": null,
+                "imageType": "SEASON_SCREENSHOT",
+                "width": 1920,
+                "height": 1080,
+                "imageSize": null,
+                "origin": "PROVIDER",
+                "ratio": null,
+                "orientation": null,
+                "language": null
+              }
+            ],
+            "SEASON_SHOWCARD": [
+              {
+                "source": "https://img.tv4.incomet.io/27e8b148-11ec-4912-acb2-7c1d4807bd3f/crop2x3.jpg",
+                "imageRatio": "RATIO_2X3",
+                "imageOrientation": null,
+                "imageType": "SEASON_SHOWCARD",
+                "width": 2000,
+                "height": 3000,
+                "imageSize": null,
+                "origin": "PROVIDER",
+                "ratio": null,
+                "orientation": null,
+                "language": "sv"
+              },
+              {
+                "source": "https://img.tv4.incomet.io/372b53e9-12b5-4f0d-9a96-591133d496db/crop16x9_w1920_h1080.jpg",
+                "imageRatio": "RATIO_16X9",
+                "imageOrientation": null,
+                "imageType": "SEASON_SHOWCARD",
+                "width": 1920,
+                "height": 1080,
+                "imageSize": null,
+                "origin": "PROVIDER",
+                "ratio": null,
+                "orientation": null,
+                "language": "sv"
+              }
+            ]
+          },
+          "vignettes": [],
+          "deepLinks": [],
+          "releaseDate": null,
+          "checksum": null,
+          "modified": null
+        },
+        {
+          "id": "s-164280_19",
+          "seriesId": "s-164280",
+          "title": {
+            "texts": {
+              "sv": "Heathrow"
+            }
+          },
+          "seasonTitle": null,
+          "number": 19,
+          "ordinalString": "19",
+          "synopsis": {
+            "texts": {
+              "sv": "Följ med bakom kulisserna på Europas största flygplats! Denna säsong ställs Heathrows anställda inför helt nya utmaningar när coronapandemin lamslår världen. Med endast två terminaler öppna kämpar personalen med att hålla verksamheten vid liv samtidigt som de gör allt för att förhindra smittspridning."
+            }
+          },
+          "seasonSynopsis": null,
+          "mainGenre": null,
+          "productionYear": null,
+          "ageRating": null,
+          "contentRating": null,
+          "contributors": {},
+          "credits": {},
+          "references": {},
+          "images": {
+            "UNKNOWN": [
+              {
+                "source": "/image_storage/se.tv4/006/174/9200961.jpg",
+                "imageRatio": null,
+                "imageOrientation": "PORTRAIT",
+                "imageType": "UNKNOWN",
+                "width": null,
+                "height": null,
+                "imageSize": null,
+                "origin": "PROVIDER",
+                "ratio": null,
+                "orientation": null,
+                "language": null
+              }
+            ]
+          },
+          "vignettes": [],
+          "deepLinks": [],
+          "releaseDate": null,
+          "checksum": null,
+          "modified": null
+        }
+      ],
+      "contributors": {},
+      "credits": {},
+      "references": {},
+      "images": {
+        "SERIES_BACKDROP": [
+          {
+            "source": "https://img.tv4.incomet.io/c106612f-4e58-47c8-bda2-8e32a2059a64/crop16x9_w1920_h1080.jpg",
+            "imageRatio": "RATIO_16X9",
+            "imageOrientation": null,
+            "imageType": "SERIES_BACKDROP",
+            "width": 1920,
+            "height": 1080,
+            "imageSize": null,
+            "origin": "PROVIDER",
+            "ratio": null,
+            "orientation": null,
+            "language": null
+          },
+          {
+            "source": "https://img.tv4.incomet.io/cc96e82c-8b4c-4bc2-b558-128422b35fb0/crop16x9_w1920_h1080.jpg",
+            "imageRatio": "RATIO_16X9",
+            "imageOrientation": null,
+            "imageType": "SERIES_BACKDROP",
+            "width": 1920,
+            "height": 1080,
+            "imageSize": null,
+            "origin": "PROVIDER",
+            "ratio": null,
+            "orientation": null,
+            "language": null
+          },
+          {
+            "source": "https://img.tv4.incomet.io/cd24a938-0da1-43a2-bc13-9852c60547b8/crop2x3.jpg",
+            "imageRatio": "RATIO_2X3",
+            "imageOrientation": null,
+            "imageType": "SERIES_BACKDROP",
+            "width": 2000,
+            "height": 3000,
+            "imageSize": null,
+            "origin": "PROVIDER",
+            "ratio": null,
+            "orientation": null,
+            "language": null
+          },
+          {
+            "source": "https://img.tv4.incomet.io/f8183170-acbf-448a-8597-86e5c80cce15/crop2x3.jpg",
+            "imageRatio": "RATIO_2X3",
+            "imageOrientation": null,
+            "imageType": "SERIES_BACKDROP",
+            "width": 2000,
+            "height": 3000,
+            "imageSize": null,
+            "origin": "PROVIDER",
+            "ratio": null,
+            "orientation": null,
+            "language": null
+          }
+        ],
+        "SERIES_SHOWCARD_ASSEMBLED": [
+          {
+            "source": "https://img.tv4.incomet.io/372b53e9-12b5-4f0d-9a96-591133d496db/crop16x9_w1920_h1080.jpg",
+            "imageRatio": "RATIO_16X9",
+            "imageOrientation": null,
+            "imageType": "SERIES_SHOWCARD_ASSEMBLED",
+            "width": 1920,
+            "height": 1080,
+            "imageSize": null,
+            "origin": "PROVIDER",
+            "ratio": null,
+            "orientation": null,
+            "language": "fi"
+          },
+          {
+            "source": "https://img.tv4.incomet.io/372b53e9-12b5-4f0d-9a96-591133d496db/crop16x9_w1920_h1080.jpg",
+            "imageRatio": "RATIO_16X9",
+            "imageOrientation": null,
+            "imageType": "SERIES_SHOWCARD_ASSEMBLED",
+            "width": 1920,
+            "height": 1080,
+            "imageSize": null,
+            "origin": "PROVIDER",
+            "ratio": null,
+            "orientation": null,
+            "language": "da"
+          },
+          {
+            "source": "https://img.tv4.incomet.io/372b53e9-12b5-4f0d-9a96-591133d496db/crop16x9_w1920_h1080.jpg",
+            "imageRatio": "RATIO_16X9",
+            "imageOrientation": null,
+            "imageType": "SERIES_SHOWCARD_ASSEMBLED",
+            "width": 1920,
+            "height": 1080,
+            "imageSize": null,
+            "origin": "PROVIDER",
+            "ratio": null,
+            "orientation": null,
+            "language": "no"
+          },
+          {
+            "source": "https://img.tv4.incomet.io/372b53e9-12b5-4f0d-9a96-591133d496db/crop16x9_w1920_h1080.jpg",
+            "imageRatio": "RATIO_16X9",
+            "imageOrientation": null,
+            "imageType": "SERIES_SHOWCARD_ASSEMBLED",
+            "width": 1920,
+            "height": 1080,
+            "imageSize": null,
+            "origin": "PROVIDER",
+            "ratio": null,
+            "orientation": null,
+            "language": "sv"
+          }
+        ],
+        "SOURCE_LOGO": [
+          {
+            "source": "/images/SVoD_images/fallbackSquare/fallback_tv12_ny.jpg",
+            "imageRatio": null,
+            "imageOrientation": "PORTRAIT",
+            "imageType": "SOURCE_LOGO",
+            "width": null,
+            "height": null,
+            "imageSize": "UNKNOWN",
+            "origin": "EDITORIAL",
+            "ratio": null,
+            "orientation": null,
+            "language": null
+          },
+          {
+            "source": "/images/logos/tv12_logo_331x38.png",
+            "imageRatio": null,
+            "imageOrientation": "SQUARE",
+            "imageType": "SOURCE_LOGO",
+            "width": null,
+            "height": null,
+            "imageSize": "UNKNOWN",
+            "origin": "EDITORIAL",
+            "ratio": null,
+            "orientation": null,
+            "language": null
+          }
+        ],
+        "SERIES_SHOWCARD": [
+          {
+            "source": "https://img.tv4.incomet.io/27e8b148-11ec-4912-acb2-7c1d4807bd3f/crop2x3.jpg",
+            "imageRatio": "RATIO_2X3",
+            "imageOrientation": null,
+            "imageType": "SERIES_SHOWCARD",
+            "width": 2000,
+            "height": 3000,
+            "imageSize": null,
+            "origin": "PROVIDER",
+            "ratio": null,
+            "orientation": null,
+            "language": "fi"
+          },
+          {
+            "source": "https://img.tv4.incomet.io/27e8b148-11ec-4912-acb2-7c1d4807bd3f/crop2x3.jpg",
+            "imageRatio": "RATIO_2X3",
+            "imageOrientation": null,
+            "imageType": "SERIES_SHOWCARD",
+            "width": 2000,
+            "height": 3000,
+            "imageSize": null,
+            "origin": "PROVIDER",
+            "ratio": null,
+            "orientation": null,
+            "language": "da"
+          },
+          {
+            "source": "https://img.tv4.incomet.io/27e8b148-11ec-4912-acb2-7c1d4807bd3f/crop2x3.jpg",
+            "imageRatio": "RATIO_2X3",
+            "imageOrientation": null,
+            "imageType": "SERIES_SHOWCARD",
+            "width": 2000,
+            "height": 3000,
+            "imageSize": null,
+            "origin": "PROVIDER",
+            "ratio": null,
+            "orientation": null,
+            "language": "no"
+          },
+          {
+            "source": "https://img.tv4.incomet.io/27e8b148-11ec-4912-acb2-7c1d4807bd3f/crop2x3.jpg",
+            "imageRatio": "RATIO_2X3",
+            "imageOrientation": null,
+            "imageType": "SERIES_SHOWCARD",
+            "width": 2000,
+            "height": 3000,
+            "imageSize": null,
+            "origin": "PROVIDER",
+            "ratio": null,
+            "orientation": null,
+            "language": "sv"
+          },
+          {
+            "source": "https://img.tv4.incomet.io/372b53e9-12b5-4f0d-9a96-591133d496db/crop16x9_w1920_h1080.jpg",
+            "imageRatio": "RATIO_16X9",
+            "imageOrientation": null,
+            "imageType": "SERIES_SHOWCARD",
+            "width": 1920,
+            "height": 1080,
+            "imageSize": null,
+            "origin": "PROVIDER",
+            "ratio": null,
+            "orientation": null,
+            "language": "no"
+          },
+          {
+            "source": "https://img.tv4.incomet.io/372b53e9-12b5-4f0d-9a96-591133d496db/crop16x9_w1920_h1080.jpg",
+            "imageRatio": "RATIO_16X9",
+            "imageOrientation": null,
+            "imageType": "SERIES_SHOWCARD",
+            "width": 1920,
+            "height": 1080,
+            "imageSize": null,
+            "origin": "PROVIDER",
+            "ratio": null,
+            "orientation": null,
+            "language": "sv"
+          }
+        ]
+      },
+      "mainGenre": {
+        "value": "DOCUMENTARY",
+        "name": null,
+        "subgenres": []
+      },
+      "tags": [],
+      "ratings": [],
+      "vignettes": [],
+      "releaseDate": null,
+      "ageRating": null,
+      "contentRating": null,
+      "deepLinks": [
+        {
+          "link": "https://l.tv4play.se/ext-series/282016",
+          "platforms": ["DEFAULT", "WEB"]
+        },
+        {
+          "link": "tv4play://ext-series/282016",
+          "platforms": [
+            "ANDROIDMOB",
+            "ANDROIDSTB",
+            "ANDROIDTV",
+            "IOS",
+            "LGTV",
+            "TVOS"
+          ]
+        }
+      ],
+      "checksum": -566919458,
+      "modified": "2024-03-27T11:16:06.038368Z"
+    },
+    "season": {
+      "id": "4b0992bb7c4efae2",
+      "seriesId": "s-9d748e6331d8c7f5",
+      "title": null,
+      "seasonTitle": {
+        "full": null,
+        "sub": null,
+        "original": null,
+        "epg": null
+      },
+      "number": 1,
+      "ordinalString": "1",
+      "synopsis": null,
+      "seasonSynopsis": {
+        "briefSynopsis": {
+          "texts": {
+            "sv": "Följ med bakom kulisserna på Europas största flygplats Heathrow."
+          }
+        },
+        "shortSynopsis": {
+          "texts": {
+            "sv": "Följ med bakom kulisserna på Europas största flygplats Heathrow och möt några av de 76 000 anställda som arbetar med att hålla flygplatsen levande."
+          }
+        },
+        "mediumSynopsis": {
+          "texts": {
+            "sv": "Följ med bakom kulisserna på Europas största flygplats Heathrow som varje år transporterar mer än 70 miljoner passagerare. Utmaningarna är många och vi får följa med på allt ifrån invigningen av en ny terminal till försenade flyg och säkerhetsfrågor"
+          }
+        },
+        "longSynopsis": {
+          "texts": {
+            "sv": "Följ med bakom kulisserna på Europas största flygplats Heathrow. Varje år passerar mer än 70 miljoner passagerare genom flygplatsens terminaler vilket innebär stora utmaningar för de anställda. Tempot är högt och dokumentärserien ger oss en unik inblick i hur allt ifrån säkerhetsfrågor till försenade flyg och hantering av farligt gods hanteras."
+          }
+        },
+        "extendedSynopsis": null
+      },
+      "mainGenre": null,
+      "productionYear": null,
+      "ageRating": null,
+      "contentRating": null,
+      "contributors": {},
+      "credits": {},
+      "references": {},
+      "images": {
+        "SEASON_SCREENSHOT": [
+          {
+            "source": "https://img.tv4.incomet.io/cec49ff1-61ba-4ed1-a9b3-170b93611990/crop16x9_w1920_h1080.jpg",
+            "imageRatio": "RATIO_16X9",
+            "imageOrientation": null,
+            "imageType": "SEASON_SCREENSHOT",
+            "width": 1920,
+            "height": 1080,
+            "imageSize": null,
+            "origin": "PROVIDER",
+            "ratio": null,
+            "orientation": null,
+            "language": null
+          }
+        ],
+        "SEASON_SHOWCARD": [
+          {
+            "source": "https://img.tv4.incomet.io/bdb8ac3d-1cd7-4039-81df-adc20d9b4c87/crop2x3.jpg",
+            "imageRatio": "RATIO_2X3",
+            "imageOrientation": null,
+            "imageType": "SEASON_SHOWCARD",
+            "width": 2000,
+            "height": 3000,
+            "imageSize": null,
+            "origin": "PROVIDER",
+            "ratio": null,
+            "orientation": null,
+            "language": "sv"
+          },
+          {
+            "source": "https://img.tv4.incomet.io/ea27e7cd-9d25-48f3-8c58-20c9e81c0cf3/crop16x9_w1920_h1080.jpg",
+            "imageRatio": "RATIO_16X9",
+            "imageOrientation": null,
+            "imageType": "SEASON_SHOWCARD",
+            "width": 1920,
+            "height": 1080,
+            "imageSize": null,
+            "origin": "PROVIDER",
+            "ratio": null,
+            "orientation": null,
+            "language": "da"
+          },
+          {
+            "source": "https://img.tv4.incomet.io/ea27e7cd-9d25-48f3-8c58-20c9e81c0cf3/crop16x9_w1920_h1080.jpg",
+            "imageRatio": "RATIO_16X9",
+            "imageOrientation": null,
+            "imageType": "SEASON_SHOWCARD",
+            "width": 1920,
+            "height": 1080,
+            "imageSize": null,
+            "origin": "PROVIDER",
+            "ratio": null,
+            "orientation": null,
+            "language": "sv"
+          },
+          {
+            "source": "https://img.tv4.incomet.io/ea27e7cd-9d25-48f3-8c58-20c9e81c0cf3/crop16x9_w1920_h1080.jpg",
+            "imageRatio": "RATIO_16X9",
+            "imageOrientation": null,
+            "imageType": "SEASON_SHOWCARD",
+            "width": 1920,
+            "height": 1080,
+            "imageSize": null,
+            "origin": "PROVIDER",
+            "ratio": null,
+            "orientation": null,
+            "language": "fi"
+          },
+          {
+            "source": "https://img.tv4.incomet.io/ea27e7cd-9d25-48f3-8c58-20c9e81c0cf3/crop16x9_w1920_h1080.jpg",
+            "imageRatio": "RATIO_16X9",
+            "imageOrientation": null,
+            "imageType": "SEASON_SHOWCARD",
+            "width": 1920,
+            "height": 1080,
+            "imageSize": null,
+            "origin": "PROVIDER",
+            "ratio": null,
+            "orientation": null,
+            "language": "no"
+          }
+        ]
+      },
+      "vignettes": [],
+      "deepLinks": [],
+      "releaseDate": null,
+      "checksum": null,
+      "modified": null
+    },
+    "episodes": [],
+    "seasonNumber": 1,
+    "episodeNumbers": [1],
+    "ordinalString": "1",
+    "contributors": {},
+    "credits": {},
+    "length": null,
+    "mainGenre": {
+      "value": "DOCUMENTARY",
+      "name": null,
+      "subgenres": []
+    },
+    "tags": [
+      {
+        "scope": "content-type",
+        "value": "series",
+        "name": null,
+        "decorationAttributes": {}
+      },
+      {
+        "scope": "dynamic-ad-insertion-id",
+        "value": "200053002",
+        "name": null,
+        "decorationAttributes": {}
+      },
+      {
+        "scope": "merge-id",
+        "value": "a2be0778-e913-4f9a-ae1e-3dfa1fbd92e2",
+        "name": null,
+        "decorationAttributes": {}
+      },
+      {
+        "scope": "series-id",
+        "value": "tv4.comet-vod.series.282016",
+        "name": null,
+        "decorationAttributes": {}
+      },
+      {
+        "scope": "series-merge-id",
+        "value": "e6708012-3255-4f9c-8a25-5f285dbe5800",
+        "name": null,
+        "decorationAttributes": {}
+      },
+      {
+        "scope": "timeline-id",
+        "value": "3114_58fe4b1d-1953-4148-8e4e-aece2fae6854",
+        "name": null,
+        "decorationAttributes": {}
+      },
+      {
+        "scope": "title-id",
+        "value": "tv4.comet-vod.title.a2be0778-e913-4f9a-ae1e-3dfa1fbd92e2",
+        "name": null,
+        "decorationAttributes": {}
+      }
+    ],
+    "ageRating": null,
+    "contentRating": null,
+    "parentalControl": null,
+    "images": {
+      "SERIES_BACKDROP": [
+        {
+          "source": "https://img.tv4.incomet.io/c106612f-4e58-47c8-bda2-8e32a2059a64/crop16x9_w1920_h1080.jpg",
+          "imageRatio": "RATIO_16X9",
+          "imageOrientation": null,
+          "imageType": "SERIES_BACKDROP",
+          "width": 1920,
+          "height": 1080,
+          "imageSize": null,
+          "origin": "PROVIDER",
+          "ratio": null,
+          "orientation": null,
+          "language": null
+        },
+        {
+          "source": "https://img.tv4.incomet.io/cc96e82c-8b4c-4bc2-b558-128422b35fb0/crop16x9_w1920_h1080.jpg",
+          "imageRatio": "RATIO_16X9",
+          "imageOrientation": null,
+          "imageType": "SERIES_BACKDROP",
+          "width": 1920,
+          "height": 1080,
+          "imageSize": null,
+          "origin": "PROVIDER",
+          "ratio": null,
+          "orientation": null,
+          "language": null
+        },
+        {
+          "source": "https://img.tv4.incomet.io/cd24a938-0da1-43a2-bc13-9852c60547b8/crop2x3.jpg",
+          "imageRatio": "RATIO_2X3",
+          "imageOrientation": null,
+          "imageType": "SERIES_BACKDROP",
+          "width": 2000,
+          "height": 3000,
+          "imageSize": null,
+          "origin": "PROVIDER",
+          "ratio": null,
+          "orientation": null,
+          "language": null
+        },
+        {
+          "source": "https://img.tv4.incomet.io/f8183170-acbf-448a-8597-86e5c80cce15/crop2x3.jpg",
+          "imageRatio": "RATIO_2X3",
+          "imageOrientation": null,
+          "imageType": "SERIES_BACKDROP",
+          "width": 2000,
+          "height": 3000,
+          "imageSize": null,
+          "origin": "PROVIDER",
+          "ratio": null,
+          "orientation": null,
+          "language": null
+        }
+      ],
+      "SERIES_SHOWCARD_ASSEMBLED": [
+        {
+          "source": "https://img.tv4.incomet.io/372b53e9-12b5-4f0d-9a96-591133d496db/crop16x9_w1920_h1080.jpg",
+          "imageRatio": "RATIO_16X9",
+          "imageOrientation": null,
+          "imageType": "SERIES_SHOWCARD_ASSEMBLED",
+          "width": 1920,
+          "height": 1080,
+          "imageSize": null,
+          "origin": "PROVIDER",
+          "ratio": null,
+          "orientation": null,
+          "language": "fi"
+        },
+        {
+          "source": "https://img.tv4.incomet.io/372b53e9-12b5-4f0d-9a96-591133d496db/crop16x9_w1920_h1080.jpg",
+          "imageRatio": "RATIO_16X9",
+          "imageOrientation": null,
+          "imageType": "SERIES_SHOWCARD_ASSEMBLED",
+          "width": 1920,
+          "height": 1080,
+          "imageSize": null,
+          "origin": "PROVIDER",
+          "ratio": null,
+          "orientation": null,
+          "language": "da"
+        },
+        {
+          "source": "https://img.tv4.incomet.io/372b53e9-12b5-4f0d-9a96-591133d496db/crop16x9_w1920_h1080.jpg",
+          "imageRatio": "RATIO_16X9",
+          "imageOrientation": null,
+          "imageType": "SERIES_SHOWCARD_ASSEMBLED",
+          "width": 1920,
+          "height": 1080,
+          "imageSize": null,
+          "origin": "PROVIDER",
+          "ratio": null,
+          "orientation": null,
+          "language": "no"
+        },
+        {
+          "source": "https://img.tv4.incomet.io/372b53e9-12b5-4f0d-9a96-591133d496db/crop16x9_w1920_h1080.jpg",
+          "imageRatio": "RATIO_16X9",
+          "imageOrientation": null,
+          "imageType": "SERIES_SHOWCARD_ASSEMBLED",
+          "width": 1920,
+          "height": 1080,
+          "imageSize": null,
+          "origin": "PROVIDER",
+          "ratio": null,
+          "orientation": null,
+          "language": "sv"
+        }
+      ],
+      "PROGRAM_SCREENSHOT": [
+        {
+          "source": "https://img.tv4.incomet.io/ea1d9d4b-d470-4cbc-a746-ce1fb51fb1d1/crop16x9_w1920_h1080.jpg",
+          "imageRatio": "RATIO_16X9",
+          "imageOrientation": null,
+          "imageType": "PROGRAM_SCREENSHOT",
+          "width": 1920,
+          "height": 1080,
+          "imageSize": null,
+          "origin": "PROVIDER",
+          "ratio": null,
+          "orientation": null,
+          "language": null
+        }
+      ],
+      "SERIES_SHOWCARD": [
+        {
+          "source": "https://img.tv4.incomet.io/27e8b148-11ec-4912-acb2-7c1d4807bd3f/crop2x3.jpg",
+          "imageRatio": "RATIO_2X3",
+          "imageOrientation": null,
+          "imageType": "SERIES_SHOWCARD",
+          "width": 2000,
+          "height": 3000,
+          "imageSize": null,
+          "origin": "PROVIDER",
+          "ratio": null,
+          "orientation": null,
+          "language": "fi"
+        },
+        {
+          "source": "https://img.tv4.incomet.io/27e8b148-11ec-4912-acb2-7c1d4807bd3f/crop2x3.jpg",
+          "imageRatio": "RATIO_2X3",
+          "imageOrientation": null,
+          "imageType": "SERIES_SHOWCARD",
+          "width": 2000,
+          "height": 3000,
+          "imageSize": null,
+          "origin": "PROVIDER",
+          "ratio": null,
+          "orientation": null,
+          "language": "da"
+        },
+        {
+          "source": "https://img.tv4.incomet.io/27e8b148-11ec-4912-acb2-7c1d4807bd3f/crop2x3.jpg",
+          "imageRatio": "RATIO_2X3",
+          "imageOrientation": null,
+          "imageType": "SERIES_SHOWCARD",
+          "width": 2000,
+          "height": 3000,
+          "imageSize": null,
+          "origin": "PROVIDER",
+          "ratio": null,
+          "orientation": null,
+          "language": "no"
+        },
+        {
+          "source": "https://img.tv4.incomet.io/27e8b148-11ec-4912-acb2-7c1d4807bd3f/crop2x3.jpg",
+          "imageRatio": "RATIO_2X3",
+          "imageOrientation": null,
+          "imageType": "SERIES_SHOWCARD",
+          "width": 2000,
+          "height": 3000,
+          "imageSize": null,
+          "origin": "PROVIDER",
+          "ratio": null,
+          "orientation": null,
+          "language": "sv"
+        },
+        {
+          "source": "https://img.tv4.incomet.io/372b53e9-12b5-4f0d-9a96-591133d496db/crop16x9_w1920_h1080.jpg",
+          "imageRatio": "RATIO_16X9",
+          "imageOrientation": null,
+          "imageType": "SERIES_SHOWCARD",
+          "width": 1920,
+          "height": 1080,
+          "imageSize": null,
+          "origin": "PROVIDER",
+          "ratio": null,
+          "orientation": null,
+          "language": "no"
+        },
+        {
+          "source": "https://img.tv4.incomet.io/372b53e9-12b5-4f0d-9a96-591133d496db/crop16x9_w1920_h1080.jpg",
+          "imageRatio": "RATIO_16X9",
+          "imageOrientation": null,
+          "imageType": "SERIES_SHOWCARD",
+          "width": 1920,
+          "height": 1080,
+          "imageSize": null,
+          "origin": "PROVIDER",
+          "ratio": null,
+          "orientation": null,
+          "language": "sv"
+        }
+      ]
+    },
+    "awards": [],
+    "synopsis": {
+      "briefSynopsis": {
+        "texts": {
+          "sv": "Personalen arbetar mot klockan för att ta emot tusentals passagerare."
+        }
+      },
+      "shortSynopsis": null,
+      "mediumSynopsis": {
+        "texts": {
+          "sv": "Programstart. För personalen på Europas största flygplats är det aldrig en lugn stund. Denna dag arbetar personalen mot klockan för att ta emot tusentals passagerare från 84 länder. Även på djurcentret har personalen fullt upp då en tiger anlänt."
+        }
+      },
+      "longSynopsis": null,
+      "extendedSynopsis": null
+    },
+    "ratings": [],
+    "productionYear": 2015,
+    "countryOfOrigin": ["GB"],
+    "references": {
+      "LINK": [
+        {
+          "id": "APP_477811",
+          "referenceType": "LINK",
+          "referenceDecorations": {
+            "LINK": "tv4play://ext-series/282016",
+            "NAME": "APP"
+          }
+        },
+        {
+          "id": "COMET_VOD_477811",
+          "referenceType": "LINK",
+          "referenceDecorations": {
+            "LINK": "https://tv4.incomet.io/api/vod/assets/477811",
+            "NAME": "COMET_VOD"
+          }
+        },
+        {
+          "id": "WEB_477811",
+          "referenceType": "LINK",
+          "referenceDecorations": {
+            "LINK": "https://l.tv4play.se/ext-series/282016",
+            "NAME": "WEB"
+          }
+        }
+      ]
+    },
+    "ids": {},
+    "vignettes": [],
+    "sport": null,
+    "releaseDate": null
+  },
+  "linearSources": [],
+  "vodSources": [],
+  "deepLinkSources": [
+    {
+      "deepLinkAssets": [
+        {
+          "type": "DEEP_LINK",
+          "ids": {
+            "EXTERNAL_CONTENT_ID": "tv4.comet-vod.content.477811",
+            "EXTERNAL_ID": "tv4.comet-vod.vod.ott.477811"
+          },
+          "deviceType": null,
+          "id": "tv4.comet-vod.vod.ott.app.tv4play.477811.261071",
+          "videoInfo": {
+            "aspectRatio": "16:9",
+            "definition": "UNKNOWN",
+            "protocols": [],
+            "codec": null,
+            "format": null
+          },
+          "audioInfo": {
+            "soundMixType": [],
+            "soundMix": []
+          },
+          "duration": "PT45M37S",
+          "accessibility": null,
+          "created": null,
+          "modified": null,
+          "published": true,
+          "encrypted": null,
+          "audioLanguage": null,
+          "audioLanguages": ["undefined"],
+          "subtitleLanguages": ["sv"],
+          "references": {
+            "DEEP_LINK_PROVIDER": [
+              {
+                "id": "tv4-vod_tv4",
+                "referenceType": "DEEP_LINK_PROVIDER",
+                "referenceDecorations": {}
+              }
+            ]
+          },
+          "uri": "tv4play://ext-episode/261071",
+          "uriType": "APP",
+          "epgData": null,
+          "broadcastData": null,
+          "broadcastDatas": [],
+          "deepLinks": [
+            {
+              "link": "https://l.tv4play.se/ext-episode/261071",
+              "platforms": ["DEFAULT", "WEB"]
+            },
+            {
+              "link": "tv4play://ext-episode/261071",
+              "platforms": [
+                "ANDROIDMOB",
+                "ANDROIDSTB",
+                "ANDROIDTV",
+                "IOS",
+                "LGTV",
+                "TVOS"
+              ]
+            }
+          ],
+          "internal": {
+            "availableFrom": "2023-06-17T22:00:00Z",
+            "availableTo": "2023-06-18T22:00:00Z"
+          }
+        },
+        {
+          "type": "DEEP_LINK",
+          "ids": {
+            "EXTERNAL_CONTENT_ID": "tv4.comet-vod.content.477811",
+            "EXTERNAL_ID": "tv4.comet-vod.vod.ott.477811"
+          },
+          "deviceType": null,
+          "id": "tv4.comet-vod.vod.ott.web.tv4play.477811.261071",
+          "videoInfo": {
+            "aspectRatio": "16:9",
+            "definition": "UNKNOWN",
+            "protocols": [],
+            "codec": null,
+            "format": null
+          },
+          "audioInfo": {
+            "soundMixType": [],
+            "soundMix": []
+          },
+          "duration": "PT45M37S",
+          "accessibility": null,
+          "created": null,
+          "modified": null,
+          "published": true,
+          "encrypted": null,
+          "audioLanguage": null,
+          "audioLanguages": ["undefined"],
+          "subtitleLanguages": ["sv"],
+          "references": {
+            "DEEP_LINK_PROVIDER": [
+              {
+                "id": "tv4-vod_tv4",
+                "referenceType": "DEEP_LINK_PROVIDER",
+                "referenceDecorations": {}
+              }
+            ]
+          },
+          "uri": "https://l.tv4play.se/ext-episode/261071",
+          "uriType": "WEB",
+          "epgData": null,
+          "broadcastData": null,
+          "broadcastDatas": [],
+          "deepLinks": [
+            {
+              "link": "https://l.tv4play.se/ext-episode/261071",
+              "platforms": ["DEFAULT", "WEB"]
+            },
+            {
+              "link": "tv4play://ext-episode/261071",
+              "platforms": [
+                "ANDROIDMOB",
+                "ANDROIDSTB",
+                "ANDROIDTV",
+                "IOS",
+                "LGTV",
+                "TVOS"
+              ]
+            }
+          ],
+          "internal": {
+            "availableFrom": "2023-06-17T22:00:00Z",
+            "availableTo": "2023-06-18T22:00:00Z"
+          }
+        }
+      ],
+      "rights": {
+        "WEB": [
+          {
+            "offlineViewing": null,
+            "pause": true,
+            "rewind": true,
+            "ffwd": true,
+            "ffwdOngoingProgram": true,
+            "pauseOngoingProgram": true,
+            "rewindOngoingProgram": true,
+            "startover": null,
+            "startoverRestrictionsExtraDuration": null,
+            "catchup": null,
+            "nvr": null,
+            "linear": null,
+            "blocked": null,
+            "adsAllowed": null,
+            "type": null,
+            "distributionRight": "AVOD",
+            "publishedFrom": null,
+            "validFrom": "2023-06-17T22:00:00Z",
+            "validTo": "2023-06-18T22:00:00Z",
+            "npvrValidTo": null,
+            "entitle": null,
+            "assetIds": ["tv4.comet-vod.vod.ott.app.tv4play.477811.261071"]
+          },
+          {
+            "offlineViewing": null,
+            "pause": true,
+            "rewind": true,
+            "ffwd": true,
+            "ffwdOngoingProgram": true,
+            "pauseOngoingProgram": true,
+            "rewindOngoingProgram": true,
+            "startover": null,
+            "startoverRestrictionsExtraDuration": null,
+            "catchup": null,
+            "nvr": null,
+            "linear": null,
+            "blocked": null,
+            "adsAllowed": null,
+            "type": null,
+            "distributionRight": "AVOD",
+            "publishedFrom": null,
+            "validFrom": "2023-06-17T22:00:00Z",
+            "validTo": "2023-06-18T22:00:00Z",
+            "npvrValidTo": null,
+            "entitle": null,
+            "assetIds": ["tv4.comet-vod.vod.ott.web.tv4play.477811.261071"]
+          }
+        ]
+      },
+      "commonRights": null,
+      "id": "8848_m-6fc965e6969ce505",
+      "type": "DEEP_LINK",
+      "references": {
+        "STORE": [
+          {
+            "id": "8848",
+            "referenceType": "STORE",
+            "referenceDecorations": {
+              "EXTERNAL_STORE_ID": "se.tv4avod.subscriptionvodstore",
+              "NAME": "TV4 Play"
+            }
+          }
+        ],
+        "CONTENT_PROVIDER": [
+          {
+            "id": "728486401",
+            "referenceType": "CONTENT_PROVIDER",
+            "referenceDecorations": {}
+          }
+        ]
+      }
+    },
+    {
+      "deepLinkAssets": [
+        {
+          "type": "DEEP_LINK",
+          "ids": {
+            "EXTERNAL_CONTENT_ID": "tv4.comet-vod.content.477811",
+            "EXTERNAL_ID": "tv4.comet-vod.vod.ott.477811"
+          },
+          "deviceType": null,
+          "id": "tv4.comet-vod.vod.ott.app.tv4play.477811.261071",
+          "videoInfo": {
+            "aspectRatio": "16:9",
+            "definition": "UNKNOWN",
+            "protocols": [],
+            "codec": null,
+            "format": null
+          },
+          "audioInfo": {
+            "soundMixType": [],
+            "soundMix": []
+          },
+          "duration": "PT45M37S",
+          "accessibility": null,
+          "created": null,
+          "modified": null,
+          "published": true,
+          "encrypted": null,
+          "audioLanguage": null,
+          "audioLanguages": ["undefined"],
+          "subtitleLanguages": ["sv"],
+          "references": {
+            "DEEP_LINK_PROVIDER": [
+              {
+                "id": "tv4-vod_tv4",
+                "referenceType": "DEEP_LINK_PROVIDER",
+                "referenceDecorations": {}
+              }
+            ]
+          },
+          "uri": "tv4play://ext-episode/261071",
+          "uriType": "APP",
+          "epgData": null,
+          "broadcastData": null,
+          "broadcastDatas": [],
+          "deepLinks": [
+            {
+              "link": "https://l.tv4play.se/ext-episode/261071",
+              "platforms": ["DEFAULT", "WEB"]
+            },
+            {
+              "link": "tv4play://ext-episode/261071",
+              "platforms": [
+                "ANDROIDMOB",
+                "ANDROIDSTB",
+                "ANDROIDTV",
+                "IOS",
+                "LGTV",
+                "TVOS"
+              ]
+            }
+          ],
+          "internal": {
+            "availableFrom": "2024-05-26T22:00:01Z",
+            "availableTo": "2024-06-03T21:59:59Z"
+          }
+        },
+        {
+          "type": "DEEP_LINK",
+          "ids": {
+            "EXTERNAL_CONTENT_ID": "tv4.comet-vod.content.477811",
+            "EXTERNAL_ID": "tv4.comet-vod.vod.ott.477811"
+          },
+          "deviceType": null,
+          "id": "tv4.comet-vod.vod.ott.web.tv4play.477811.261071",
+          "videoInfo": {
+            "aspectRatio": "16:9",
+            "definition": "UNKNOWN",
+            "protocols": [],
+            "codec": null,
+            "format": null
+          },
+          "audioInfo": {
+            "soundMixType": [],
+            "soundMix": []
+          },
+          "duration": "PT45M37S",
+          "accessibility": null,
+          "created": null,
+          "modified": null,
+          "published": true,
+          "encrypted": null,
+          "audioLanguage": null,
+          "audioLanguages": ["undefined"],
+          "subtitleLanguages": ["sv"],
+          "references": {
+            "DEEP_LINK_PROVIDER": [
+              {
+                "id": "tv4-vod_tv4",
+                "referenceType": "DEEP_LINK_PROVIDER",
+                "referenceDecorations": {}
+              }
+            ]
+          },
+          "uri": "https://l.tv4play.se/ext-episode/261071",
+          "uriType": "WEB",
+          "epgData": null,
+          "broadcastData": null,
+          "broadcastDatas": [],
+          "deepLinks": [
+            {
+              "link": "https://l.tv4play.se/ext-episode/261071",
+              "platforms": ["DEFAULT", "WEB"]
+            },
+            {
+              "link": "tv4play://ext-episode/261071",
+              "platforms": [
+                "ANDROIDMOB",
+                "ANDROIDSTB",
+                "ANDROIDTV",
+                "IOS",
+                "LGTV",
+                "TVOS"
+              ]
+            }
+          ],
+          "internal": {
+            "availableFrom": "2024-05-26T22:00:01Z",
+            "availableTo": "2024-06-03T21:59:59Z"
+          }
+        }
+      ],
+      "rights": {
+        "WEB": [
+          {
+            "offlineViewing": null,
+            "pause": true,
+            "rewind": true,
+            "ffwd": true,
+            "ffwdOngoingProgram": true,
+            "pauseOngoingProgram": true,
+            "rewindOngoingProgram": true,
+            "startover": null,
+            "startoverRestrictionsExtraDuration": null,
+            "catchup": null,
+            "nvr": null,
+            "linear": null,
+            "blocked": null,
+            "adsAllowed": null,
+            "type": null,
+            "distributionRight": "SVOD",
+            "publishedFrom": null,
+            "validFrom": "2024-05-26T22:00:01Z",
+            "validTo": "2024-06-03T21:59:59Z",
+            "npvrValidTo": null,
+            "entitle": null,
+            "assetIds": ["tv4.comet-vod.vod.ott.app.tv4play.477811.261071"]
+          },
+          {
+            "offlineViewing": null,
+            "pause": true,
+            "rewind": true,
+            "ffwd": true,
+            "ffwdOngoingProgram": true,
+            "pauseOngoingProgram": true,
+            "rewindOngoingProgram": true,
+            "startover": null,
+            "startoverRestrictionsExtraDuration": null,
+            "catchup": null,
+            "nvr": null,
+            "linear": null,
+            "blocked": null,
+            "adsAllowed": null,
+            "type": null,
+            "distributionRight": "SVOD",
+            "publishedFrom": null,
+            "validFrom": "2024-05-26T22:00:01Z",
+            "validTo": "2024-06-03T21:59:59Z",
+            "npvrValidTo": null,
+            "entitle": null,
+            "assetIds": ["tv4.comet-vod.vod.ott.web.tv4play.477811.261071"]
+          }
+        ]
+      },
+      "commonRights": null,
+      "id": "8850_m-6fc965e6969ce505",
+      "type": "DEEP_LINK",
+      "references": {
+        "STORE": [
+          {
+            "id": "8850",
+            "referenceType": "STORE",
+            "referenceDecorations": {
+              "EXTERNAL_STORE_ID": "se.tv4svoddl.subscriptionvodstore",
+              "NAME": "TV4 Play+"
+            }
+          }
+        ],
+        "CONTENT_PROVIDER": [
+          {
+            "id": "728486401",
+            "referenceType": "CONTENT_PROVIDER",
+            "referenceDecorations": {}
+          }
+        ]
+      }
+    },
+    {
+      "deepLinkAssets": [
+        {
+          "type": "DEEP_LINK",
+          "ids": {
+            "EXTERNAL_CONTENT_ID": "tv4.comet-vod.content.477811",
+            "EXTERNAL_ID": "tv4.comet-vod.vod.ott.477811"
+          },
+          "deviceType": null,
+          "id": "tv4.comet-vod.vod.ott.app.tv4play.477811.261071",
+          "videoInfo": {
+            "aspectRatio": "16:9",
+            "definition": "UNKNOWN",
+            "protocols": [],
+            "codec": null,
+            "format": null
+          },
+          "audioInfo": {
+            "soundMixType": [],
+            "soundMix": []
+          },
+          "duration": "PT45M37S",
+          "accessibility": null,
+          "created": null,
+          "modified": null,
+          "published": true,
+          "encrypted": null,
+          "audioLanguage": null,
+          "audioLanguages": ["undefined"],
+          "subtitleLanguages": ["sv"],
+          "references": {
+            "DEEP_LINK_PROVIDER": [
+              {
+                "id": "tv4-vod_tv4",
+                "referenceType": "DEEP_LINK_PROVIDER",
+                "referenceDecorations": {}
+              }
+            ]
+          },
+          "uri": "tv4play://ext-episode/261071",
+          "uriType": "APP",
+          "epgData": null,
+          "broadcastData": null,
+          "broadcastDatas": [],
+          "deepLinks": [
+            {
+              "link": "https://l.tv4play.se/ext-episode/261071",
+              "platforms": ["DEFAULT", "WEB"]
+            },
+            {
+              "link": "tv4play://ext-episode/261071",
+              "platforms": [
+                "ANDROIDMOB",
+                "ANDROIDSTB",
+                "ANDROIDTV",
+                "IOS",
+                "LGTV",
+                "TVOS"
+              ]
+            }
+          ],
+          "internal": {
+            "availableFrom": "2024-05-26T22:00:01Z",
+            "availableTo": "2024-06-03T21:59:59Z"
+          }
+        },
+        {
+          "type": "DEEP_LINK",
+          "ids": {
+            "EXTERNAL_CONTENT_ID": "tv4.comet-vod.content.477811",
+            "EXTERNAL_ID": "tv4.comet-vod.vod.ott.477811"
+          },
+          "deviceType": null,
+          "id": "tv4.comet-vod.vod.ott.web.tv4play.477811.261071",
+          "videoInfo": {
+            "aspectRatio": "16:9",
+            "definition": "UNKNOWN",
+            "protocols": [],
+            "codec": null,
+            "format": null
+          },
+          "audioInfo": {
+            "soundMixType": [],
+            "soundMix": []
+          },
+          "duration": "PT45M37S",
+          "accessibility": null,
+          "created": null,
+          "modified": null,
+          "published": true,
+          "encrypted": null,
+          "audioLanguage": null,
+          "audioLanguages": ["undefined"],
+          "subtitleLanguages": ["sv"],
+          "references": {
+            "DEEP_LINK_PROVIDER": [
+              {
+                "id": "tv4-vod_tv4",
+                "referenceType": "DEEP_LINK_PROVIDER",
+                "referenceDecorations": {}
+              }
+            ]
+          },
+          "uri": "https://l.tv4play.se/ext-episode/261071",
+          "uriType": "WEB",
+          "epgData": null,
+          "broadcastData": null,
+          "broadcastDatas": [],
+          "deepLinks": [
+            {
+              "link": "https://l.tv4play.se/ext-episode/261071",
+              "platforms": ["DEFAULT", "WEB"]
+            },
+            {
+              "link": "tv4play://ext-episode/261071",
+              "platforms": [
+                "ANDROIDMOB",
+                "ANDROIDSTB",
+                "ANDROIDTV",
+                "IOS",
+                "LGTV",
+                "TVOS"
+              ]
+            }
+          ],
+          "internal": {
+            "availableFrom": "2024-05-26T22:00:01Z",
+            "availableTo": "2024-06-03T21:59:59Z"
+          }
+        }
+      ],
+      "rights": {
+        "WEB": [
+          {
+            "offlineViewing": null,
+            "pause": true,
+            "rewind": true,
+            "ffwd": true,
+            "ffwdOngoingProgram": true,
+            "pauseOngoingProgram": true,
+            "rewindOngoingProgram": true,
+            "startover": null,
+            "startoverRestrictionsExtraDuration": null,
+            "catchup": null,
+            "nvr": null,
+            "linear": null,
+            "blocked": null,
+            "adsAllowed": null,
+            "type": null,
+            "distributionRight": "HVOD",
+            "publishedFrom": null,
+            "validFrom": "2024-05-26T22:00:01Z",
+            "validTo": "2024-06-03T21:59:59Z",
+            "npvrValidTo": null,
+            "entitle": null,
+            "assetIds": ["tv4.comet-vod.vod.ott.app.tv4play.477811.261071"]
+          },
+          {
+            "offlineViewing": null,
+            "pause": true,
+            "rewind": true,
+            "ffwd": true,
+            "ffwdOngoingProgram": true,
+            "pauseOngoingProgram": true,
+            "rewindOngoingProgram": true,
+            "startover": null,
+            "startoverRestrictionsExtraDuration": null,
+            "catchup": null,
+            "nvr": null,
+            "linear": null,
+            "blocked": null,
+            "adsAllowed": null,
+            "type": null,
+            "distributionRight": "HVOD",
+            "publishedFrom": null,
+            "validFrom": "2024-05-26T22:00:01Z",
+            "validTo": "2024-06-03T21:59:59Z",
+            "npvrValidTo": null,
+            "entitle": null,
+            "assetIds": ["tv4.comet-vod.vod.ott.web.tv4play.477811.261071"]
+          }
+        ]
+      },
+      "commonRights": null,
+      "id": "8851_m-6fc965e6969ce505",
+      "type": "DEEP_LINK",
+      "references": {
+        "STORE": [
+          {
+            "id": "8851",
+            "referenceType": "STORE",
+            "referenceDecorations": {
+              "EXTERNAL_STORE_ID": "se.tv4hvoddl.subscriptionvodstore",
+              "NAME": "TV4 Play+"
+            }
+          }
+        ],
+        "CONTENT_PROVIDER": [
+          {
+            "id": "728486401",
+            "referenceType": "CONTENT_PROVIDER",
+            "referenceDecorations": {}
+          }
+        ]
+      }
+    }
+  ],
+  "eventSources": [],
+  "assetTypes": ["DEEP_LINK"],
+  "prices": [],
+  "deepLinks": [
+    {
+      "link": "https://l.tv4play.se/ext-episode/261071",
+      "platforms": ["DEFAULT", "WEB"]
+    },
+    {
+      "link": "tv4play://ext-episode/261071",
+      "platforms": [
+        "ANDROIDMOB",
+        "ANDROIDSTB",
+        "ANDROIDTV",
+        "IOS",
+        "LGTV",
+        "TVOS"
+      ]
+    }
+  ],
+  "historicalIds": [],
+  "historicalSeriesIds": ["s-3aa6f8f55ed93b10"],
+  "historicalSeasonIds": ["9b87a10ed7a912d4"],
+  "checksum": -954032001,
+  "modified": "2024-03-27T11:16:06.038368Z",
+  "retain": null,
+  "internal": {
+    "availableFrom": "2023-06-17T22:00:00Z",
+    "availableTo": "2024-06-03T21:59:59Z",
+    "tmsId": null,
+    "tmsSeriesId": null,
+    "imdbId": null,
+    "imdbSeriesId": null
+  }
+}
