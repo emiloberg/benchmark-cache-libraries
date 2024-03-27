@@ -3,9 +3,9 @@ import { run, bench, group } from "mitata";
 import Keyv from "keyv";
 import NodeCache from "node-cache";
 import TTLCache from "@isaacs/ttlcache";
-import DUMMY_JSON from "./dummy.json" assert { type: "json" };
+import dummyCacheObj from "./dummy.json" assert { type: "json" };
 
-const ITEMS_IN_CACHE = 100_000;
+const ITEMS_IN_CACHE = 500_000;
 const GET_NUMBER_OF_ITEMS = 50_000;
 
 const DUMMY_JSON = JSON.stringify(dummyCacheObj);
