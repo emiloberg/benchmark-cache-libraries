@@ -24,7 +24,7 @@ const getItems = async (getFn) => {
 const keyv = await (async () => {
   const keyvInstance = new Keyv();
   for (let i = 0; i < ITEMS_IN_CACHE; i++) {
-    await keyvInstance.set("key" + i, JSON.parse(DUMMY_JSON) + i, TTL);
+    await keyvInstance.set("key" + i, JSON.parse(DUMMY_JSON), TTL);
   }
 
   return (id) => keyvInstance.get(id);
@@ -38,7 +38,7 @@ const nodeCache = await (async () => {
   });
 
   for (let i = 0; i < ITEMS_IN_CACHE; i++) {
-    nodeCacheInstance.set("key" + i, JSON.parse(DUMMY_JSON) + i, TTL);
+    nodeCacheInstance.set("key" + i, JSON.parse(DUMMY_JSON), TTL);
   }
 
   return (id) => nodeCacheInstance.get(id);
@@ -48,7 +48,7 @@ const ttlCache = await (async () => {
   const ttlCacheInstance = new TTLCache({ max: ITEMS_IN_CACHE, ttl: TTL });
 
   for (let i = 0; i < ITEMS_IN_CACHE; i++) {
-    ttlCacheInstance.set("key" + i, JSON.parse(DUMMY_JSON) + i, { ttl: TTL });
+    ttlCacheInstance.set("key" + i, JSON.parse(DUMMY_JSON), { ttl: TTL });
   }
 
   return (id) => ttlCacheInstance.get(id);
